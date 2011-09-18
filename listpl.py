@@ -110,9 +110,6 @@ def __getPlanetLabNodeList(out):
                 except socket.gaierror as e:
                     node_ip = node_host
                 
-                print (site_id, site_name, 
-                       node_id, node_host, node_ip, 
-                       site_lat, site_lon)
                 out.write(_OUT_DATA_FMT_ % (site_id, site_name, 
                                             node_id, node_host, node_ip, 
                                             site_lat, site_lon))
