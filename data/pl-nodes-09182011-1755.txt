@@ -1,0 +1,1020 @@
+# <site id>, <site name>, <node_id>, <hostname>, <IP>, <latitude>, <longitude> 
+ 10256,                            Michigan Technological University,  10944,                 mtuplanetlab1.cs.mtu.edu, 141.219.252.132,  47.11810000, -88.54630000 
+ 10256,                            Michigan Technological University,  13125,                 mtuplanetlab2.cs.mtu.edu, 141.219.252.133,  47.11810000, -88.54630000 
+ 10173, Department of Electrical Engineering, National Taiwan University,  10670,                        eve.ee.ntu.edu.tw,  140.112.42.159,  25.01090000, 121.32300000 
+ 10173, Department of Electrical Engineering, National Taiwan University,  10669,                       adam.ee.ntu.edu.tw,  140.112.42.158,  25.01090000, 121.32300000 
+ 10195,                                                  The Citadel,  10726,                   planetlab2.citadel.edu,    155.225.2.72,  32.79840000, -79.96140000 
+ 10195,                                                  The Citadel,  10725,                   planetlab1.citadel.edu,    155.225.2.71,  32.79840000, -79.96140000 
+ 10323,                                            SRI International,  11499,                    pl-node-1.csl.sri.com,   192.12.33.102,  37.45570000, -122.17800000 
+ 10323,                                            SRI International,  11498,                    pl-node-0.csl.sri.com,   192.12.33.100,  37.45570000, -122.17800000 
+    42,                        University of Canterbury, New Zealand,  13635,              planetlab3.canterbury.ac.nz,   132.181.10.56, -43.52710000, 172.64900000 
+    42,                        University of Canterbury, New Zealand,  13636,              planetlab4.canterbury.ac.nz,   132.181.10.57, -43.52710000, 172.64900000 
+   138,                         University of California, Santa Cruz,  13519,                 planetslug6.cse.ucsc.edu,   128.114.63.14,  37.00000000, -122.06000000 
+   138,                         University of California, Santa Cruz,  11065,                 planetslug5.cse.ucsc.edu,   128.114.63.64,  37.00000000, -122.06000000 
+   138,                         University of California, Santa Cruz,  13520,                 planetslug7.cse.ucsc.edu,   128.114.63.15,  37.00000000, -122.06000000 
+   138,                         University of California, Santa Cruz,  11064,                 planetslug4.cse.ucsc.edu,   128.114.63.63,  37.00000000, -122.06000000 
+   138,                         University of California, Santa Cruz,   3303,                 planetslug3.cse.ucsc.edu,   128.114.63.16,  37.00000000, -122.06000000 
+   116,                                          HP Labs, Internet 2,    237,                     pli2-pa-2.hpl.hp.com,     192.6.26.32,  37.44000000, -122.15000000 
+   116,                                          HP Labs, Internet 2,    183,                     pli2-pa-1.hpl.hp.com,     192.6.26.31,  37.44000000, -122.15000000 
+   116,                                          HP Labs, Internet 2,    238,                     pli2-pa-3.hpl.hp.com,     192.6.26.33,  37.44000000, -122.15000000 
+ 10170,                                   PlanetLab Colo - TP Warsaw,  10638,          planetlab1.nowogrodzka.rd.tp.pl,  195.116.60.145,  52.25000000,  21.00000000 
+ 10170,                                   PlanetLab Colo - TP Warsaw,  10673,          planetlab2.nowogrodzka.rd.tp.pl,  195.116.60.146,  52.25000000,  21.00000000 
+   175,                               Delft University of Technology,   8162,                planetlab2.ewi.tudelft.nl,  130.161.40.154,  52.02000000,   4.35000000 
+   175,                               Delft University of Technology,   8161,                planetlab1.ewi.tudelft.nl,  130.161.40.153,  52.02000000,   4.35000000 
+ 11539,                               Technical University of Madrid,  13918,                    planetlab1.dit.upm.es,     138.4.0.119,  40.42000000,  -3.72000000 
+ 11539,                               Technical University of Madrid,  13921,                    planetlab2.dit.upm.es,     138.4.0.120,  40.42000000,  -3.72000000 
+   113,                                                         NICT,  13128,                     planetlab1.nvlab.org,    122.1.115.91,  35.70000000, 139.76700000 
+   113,                                                         NICT,  13126,            planetlab1.koganei.wide.ad.jp,   202.249.37.67,  35.70000000, 139.76700000 
+   113,                                                         NICT,  13127,            planetlab2.koganei.wide.ad.jp,   202.249.37.69,  35.70000000, 139.76700000 
+ 10167,                                   PlanetLab Colo - TP Poznan,  10636,               planetlab1.poznan.rd.tp.pl, planetlab1.poznan.rd.tp.pl,  52.33000000,  17.00000000 
+ 10167,                                   PlanetLab Colo - TP Poznan,  10637,               planetlab2.poznan.rd.tp.pl, planetlab2.poznan.rd.tp.pl,  52.33000000,  17.00000000 
+ 10167,                                   PlanetLab Colo - TP Poznan,  10844,               planetlab4.poznan.rd.tp.pl, planetlab4.poznan.rd.tp.pl,  52.33000000,  17.00000000 
+ 10167,                                   PlanetLab Colo - TP Poznan,  10843,               planetlab3.poznan.rd.tp.pl, planetlab3.poznan.rd.tp.pl,  52.33000000,  17.00000000 
+ 10168,                     PlanetLab Colo - TP Piotrkow Trybunalski,  10592,             planetlab1.piotrkow.rd.tp.pl, planetlab1.piotrkow.rd.tp.pl,  51.50000000,  19.68330000 
+ 10168,                     PlanetLab Colo - TP Piotrkow Trybunalski,  10564,             planetlab2.piotrkow.rd.tp.pl, planetlab2.piotrkow.rd.tp.pl,  51.50000000,  19.68330000 
+ 10168,                     PlanetLab Colo - TP Piotrkow Trybunalski,  10811,             planetlab3.piotrkow.rd.tp.pl,   195.116.60.67,  51.50000000,  19.68330000 
+ 10169,                                   PlanetLab Colo - TP Gdansk,  10634,               planetlab1.gdansk.rd.tp.pl,  195.116.60.129,  54.33000000,  18.66000000 
+ 10169,                                   PlanetLab Colo - TP Gdansk,  10635,               planetlab2.gdansk.rd.tp.pl,  195.116.60.130,  54.33000000,  18.66000000 
+ 11389,                                Cal Poly State University SLO,  13150,           planetlab-2.calpoly-netlab.net,   208.94.63.194,  35.30060000, -120.66200000 
+ 11389,                                Cal Poly State University SLO,  13149,           planetlab-1.calpoly-netlab.net,   208.94.63.193,  35.30060000, -120.66200000 
+   191,           The Hong Kong University of Science and Technology,   8207,                          plab1.cs.ust.hk,    143.89.49.73,  22.30000000, 114.16600000 
+   191,           The Hong Kong University of Science and Technology,   8214,                          plab2.cs.ust.hk,    143.89.49.74,  22.30000000, 114.16600000 
+ 11608, Network Management & Optimal Design Laboratory - National Technical University of Athens,  13933,                  vicky.planetlab.ntua.gr, 147.102.224.227,  37.97000000,  23.72000000 
+ 11608, Network Management & Optimal Design Laboratory - National Technical University of Athens,  13934,                 stella.planetlab.ntua.gr, 147.102.224.228,  37.97000000,  23.72000000 
+    24,                         University of California at Berkeley,  10976,      planetlab15.millennium.berkeley.edu,   169.229.50.17,  37.87570000, -122.25900000 
+    24,                         University of California at Berkeley,   3222,      planetlab10.millennium.berkeley.edu,   169.229.50.12,  37.87570000, -122.25900000 
+    24,                         University of California at Berkeley,   3220,       planetlab6.millennium.berkeley.edu,    169.229.50.8,  37.87570000, -122.25900000 
+    24,                         University of California at Berkeley,   8182,       planetlab1.millennium.berkeley.edu,    169.229.50.3,  37.87570000, -122.25900000 
+    24,                         University of California at Berkeley,   3225,       planetlab8.millennium.berkeley.edu,   169.229.50.10,  37.87570000, -122.25900000 
+    24,                         University of California at Berkeley,   3223,      planetlab11.millennium.berkeley.edu,   169.229.50.13,  37.87570000, -122.25900000 
+    24,                         University of California at Berkeley,   8183,       planetlab2.millennium.berkeley.edu,    169.229.50.4,  37.87570000, -122.25900000 
+    24,                         University of California at Berkeley,   3217,      planetlab13.millennium.berkeley.edu,   169.229.50.15,  37.87570000, -122.25900000 
+    24,                         University of California at Berkeley,   3215,      planetlab12.millennium.berkeley.edu,   169.229.50.14,  37.87570000, -122.25900000 
+    24,                         University of California at Berkeley,   3224,       planetlab9.millennium.berkeley.edu,   169.229.50.11,  37.87570000, -122.25900000 
+    24,                         University of California at Berkeley,   3216,       planetlab5.millennium.berkeley.edu,    169.229.50.7,  37.87570000, -122.25900000 
+    24,                         University of California at Berkeley,  10977,      planetlab16.millennium.berkeley.edu,   169.229.50.18,  37.87570000, -122.25900000 
+    24,                         University of California at Berkeley,   3214,       planetlab4.millennium.berkeley.edu,    169.229.50.6,  37.87570000, -122.25900000 
+    24,                         University of California at Berkeley,   3221,       planetlab7.millennium.berkeley.edu,    169.229.50.9,  37.87570000, -122.25900000 
+    24,                         University of California at Berkeley,   3218,      planetlab14.millennium.berkeley.edu,   169.229.50.16,  37.87570000, -122.25900000 
+    24,                         University of California at Berkeley,   8181,       planetlab3.millennium.berkeley.edu,    169.229.50.5,  37.87570000, -122.25900000 
+    29,                                  University of Texas, Austin,     55,              planetlab2.csres.utexas.edu,  128.83.122.180,  30.28690000, -97.73660000 
+    29,                                  University of Texas, Austin,  11024,              planetlab4.csres.utexas.edu,  128.83.122.161,  30.28690000, -97.73660000 
+    29,                                  University of Texas, Austin,  13563,              planetlab7.csres.utexas.edu,  128.83.122.152,  30.28690000, -97.73660000 
+    29,                                  University of Texas, Austin,  13562,              planetlab6.csres.utexas.edu,  128.83.122.143,  30.28690000, -97.73660000 
+    29,                                  University of Texas, Austin,     79,              planetlab1.csres.utexas.edu,  128.83.122.179,  30.28690000, -97.73660000 
+    29,                                  University of Texas, Austin,     80,              planetlab3.csres.utexas.edu,  128.83.122.181,  30.28690000, -97.73660000 
+    29,                                  University of Texas, Austin,  11039,              planetlab5.csres.utexas.edu,  128.83.122.162,  30.28690000, -97.73660000 
+ 10134,                             Illinois Institute of Technology,  11097,           server4.planetlab.iit-tech.net,   192.42.83.253,  41.83830000, -87.62900000 
+ 10134,                             Illinois Institute of Technology,  11096,           server3.planetlab.iit-tech.net,   192.42.83.250,  41.83830000, -87.62900000 
+ 10134,                             Illinois Institute of Technology,  10465,           server2.planetlab.iit-tech.net,   192.42.83.252,  41.83830000, -87.62900000 
+ 10134,                             Illinois Institute of Technology,  10464,           server1.planetlab.iit-tech.net,   192.42.83.251,  41.83830000, -87.62900000 
+    38,                       University of Massachusetts at Amherst,     19,                  planetlab1.cs.umass.edu,  128.119.41.210,  42.39490000, -72.52740000 
+    38,                       University of Massachusetts at Amherst,     20,                  planetlab2.cs.umass.edu,  128.119.41.211,  42.39490000, -72.52740000 
+ 10211,           Moscow Institute of Electronic Technology, TU MIET,  10784,                  venus.silicon-valley.ru,   82.179.176.44,  55.59000000,  37.11000000 
+ 10211,           Moscow Institute of Electronic Technology, TU MIET,  10783,                mercury.silicon-valley.ru,   82.179.176.42,  55.59000000,  37.11000000 
+ 10281,                                           Kookmin University,  11043,                 netapp6.cs.kookmin.ac.kr, 203.246.112.147,  37.61180000, 126.99900000 
+ 10281,                                           Kookmin University,  11044,                 netapp7.cs.kookmin.ac.kr, 203.246.112.148,  37.61180000, 126.99900000 
+ 10118,                                             Osaka University,  13120,            int-pl2.ise.eng.osaka-u.ac.jp,    133.1.172.60,  34.81000000, 135.52000000 
+ 10118,                                             Osaka University,  13119,            int-pl1.ise.eng.osaka-u.ac.jp,    133.1.172.58,  34.81000000, 135.52000000 
+ 10118,                                             Osaka University,  10423,         pl1-higashi.ics.es.osaka-u.ac.jp,    133.1.16.171,  34.81000000, 135.52000000 
+ 10118,                                             Osaka University,  10422,         pl2-higashi.ics.es.osaka-u.ac.jp,    133.1.16.172,  34.81000000, 135.52000000 
+ 10118,                                             Osaka University,  10720,             pub2-s.ane.cmc.osaka-u.ac.jp,    133.1.74.163,  34.81000000, 135.52000000 
+ 10118,                                             Osaka University,  10719,             pub1-s.ane.cmc.osaka-u.ac.jp,    133.1.74.162,  34.81000000, 135.52000000 
+ 11544,                                  ITEC, Klagenfurt University,  13782,                 plab1-itec.uni-klu.ac.at,  143.205.172.11,  46.62000000,  14.30000000 
+ 11544,                                  ITEC, Klagenfurt University,  13783,                 plab2-itec.uni-klu.ac.at,  143.205.172.12,  46.62000000,  14.30000000 
+   229,                                         RNP - Rio de Janeiro,  10022,                 planetlab1.pop-rj.rnp.br,  200.159.255.70, -22.90660000, -43.17250000 
+   229,                                         RNP - Rio de Janeiro,  10023,                 planetlab2.pop-rj.rnp.br,  200.159.255.80, -22.90660000, -43.17250000 
+ 11527,                                              Yale University,  13748,                          pl1.cs.yale.edu,  128.36.233.153,  41.31340000, -72.92510000 
+ 11527,                                              Yale University,  13747,                          pl2.cs.yale.edu,  128.36.233.154,  41.31340000, -72.92510000 
+    26,                                              Rice University,     88,                     ricepl-3.cs.rice.edu,   128.42.142.43,  29.72250000, -95.39240000 
+    26,                                              Rice University,     87,                     ricepl-2.cs.rice.edu,   128.42.142.42,  29.72250000, -95.39240000 
+    26,                                              Rice University,  13566,                     ricepl-5.cs.rice.edu,   128.42.142.45,  29.72250000, -95.39240000 
+    26,                                              Rice University,  13565,                     ricepl-4.cs.rice.edu,   128.42.142.44,  29.72250000, -95.39240000 
+    26,                                              Rice University,      7,                     ricepl-1.cs.rice.edu,   128.42.142.41,  29.72250000, -95.39240000 
+     7,                                        University of Arizona,  13633,           planetlab3.arizona-gigapop.net,  206.207.248.38,  32.23330000, -110.94800000 
+     7,                                        University of Arizona,  11076,           planetlab2.arizona-gigapop.net,  206.207.248.35,  32.23330000, -110.94800000 
+     7,                                        University of Arizona,  10746,           planetlab1.arizona-gigapop.net,  206.207.248.34,  32.23330000, -110.94800000 
+    81,                                           Johns Hopkins CNDS,    164,                  planetlab1.cnds.jhu.edu,   128.220.231.2,  39.33000000, -76.60000000 
+    81,                                           Johns Hopkins CNDS,  11487,                  planetlab4.cnds.jhu.edu,   128.220.231.5,  39.33000000, -76.60000000 
+    81,                                           Johns Hopkins CNDS,  11486,                  planetlab3.cnds.jhu.edu,   128.220.231.4,  39.33000000, -76.60000000 
+    81,                                           Johns Hopkins CNDS,    165,                  planetlab2.cnds.jhu.edu,   128.220.231.3,  39.33000000, -76.60000000 
+ 11393,                                       University of Waterloo,  13166,                    plonk.cs.uwaterloo.ca,    129.97.74.14,  43.47260000, -80.54220000 
+ 11393,                                       University of Waterloo,  13165,                    plink.cs.uwaterloo.ca,    129.97.74.12,  43.47260000, -80.54220000 
+ 10127,   Japan Advanced Institute of Science and Technology (JAIST),  10446,                      planet0.jaist.ac.jp,    150.65.32.66,  39.38000000, 140.05000000 
+ 10127,   Japan Advanced Institute of Science and Technology (JAIST),  10447,                      planet1.jaist.ac.jp,    150.65.32.68,  39.38000000, 140.05000000 
+ 11494,                                         University of Denver,  13637,                     planetlab1.cs.du.edu,  130.253.21.121,  39.67980000, -104.96300000 
+ 11494,                                         University of Denver,  13638,                     planetlab2.cs.du.edu,  130.253.21.123,  39.67980000, -104.96300000 
+   157,                 Johns Hopkins Information Security Institute,  13678,                       planetlab2.jhu.edu,  128.220.251.52,  39.33000000, -76.60000000 
+   157,                 Johns Hopkins Information Security Institute,  13677,                       planetlab1.jhu.edu,  128.220.251.50,  39.33000000, -76.60000000 
+ 10300,                                         University of Patras,  11079,               planetlab1.ceid.upatras.gr,  150.140.140.91,  38.28450000,  21.78850000 
+ 10300,                                         University of Patras,  11080,               planetlab2.ceid.upatras.gr,  150.140.140.93,  38.28450000,  21.78850000 
+ 10076,                        Telekomunikacja Polska R&D at Swidnik,  10888,               planetlab1.lublin.rd.tp.pl,  195.116.60.209,  51.25000000,  22.68600000 
+ 10076,                        Telekomunikacja Polska R&D at Swidnik,  10604,              planetlab1.swidnik.rd.tp.pl,   195.116.60.49,  51.25000000,  22.68600000 
+ 10076,                        Telekomunikacja Polska R&D at Swidnik,  10887,               planetlab2.lublin.rd.tp.pl,  195.116.60.210,  51.25000000,  22.68600000 
+ 11490,                                                  RNP  - Para,  13634,                 planetlab2.pop-pa.rnp.br,  200.129.132.19,  -1.46148000, -48.45910000 
+ 11490,                                                  RNP  - Para,  13640,                 planetlab1.pop-pa.rnp.br,  200.129.132.18,  -1.46148000, -48.45910000 
+    21,                                       University of Michigan,  11078,                planetlab4.eecs.umich.edu, 141.212.113.179,  42.29440000, -83.71260000 
+    21,                                       University of Michigan,     90,                planetlab1.eecs.umich.edu,   141.213.4.201,  42.29440000, -83.71260000 
+    21,                                       University of Michigan,  11077,                planetlab3.eecs.umich.edu, 141.212.113.178,  42.29440000, -83.71260000 
+    21,                                       University of Michigan,  13487,                planetlab5.eecs.umich.edu, 141.212.113.180,  42.29440000, -83.71260000 
+    21,                                       University of Michigan,     91,                planetlab2.eecs.umich.edu,   141.213.4.202,  42.29440000, -83.71260000 
+    58,                   University of Illinois at Urbana-Champaign,  10424,                   planetlab3.cs.uiuc.edu,    72.36.112.73,  40.11030000, -88.22720000 
+    58,                   University of Illinois at Urbana-Champaign,    107,                   planetlab2.cs.uiuc.edu,    72.36.112.72,  40.11030000, -88.22720000 
+    58,                   University of Illinois at Urbana-Champaign,  13494,                   planetlab6.cs.uiuc.edu,    72.36.112.79,  40.11030000, -88.22720000 
+    58,                   University of Illinois at Urbana-Champaign,    108,                   planetlab1.cs.uiuc.edu,    72.36.112.71,  40.11030000, -88.22720000 
+    58,                   University of Illinois at Urbana-Champaign,  13493,                   planetlab5.cs.uiuc.edu,    72.36.112.78,  40.11030000, -88.22720000 
+    58,                   University of Illinois at Urbana-Champaign,  10431,                   planetlab4.cs.uiuc.edu,    72.36.112.74,  40.11030000, -88.22720000 
+   163,                                            Howard University,  13615,                         nodeb.howard.edu, 138.238.250.157,  38.91000000, -77.02000000 
+   163,                                            Howard University,  13613,                         nodea.howard.edu, 138.238.250.155,  38.91000000, -77.02000000 
+    48,                                       University of Maryland,  13231,              osiris.planetlab.cs.umd.edu,    128.8.126.78,  38.98860000, -76.94450000 
+    48,                                       University of Maryland,  10425,                salt.planetlab.cs.umd.edu,   128.8.126.111,  38.98860000, -76.94450000 
+    48,                                       University of Maryland,  13586,             miranda.planetlab.cs.umd.edu,    128.8.126.98,  38.98860000, -76.94450000 
+    48,                                       University of Maryland,  13232,           whitefall.planetlab.cs.umd.edu,    128.8.126.79,  38.98860000, -76.94450000 
+ 11410,           University at Albany, State University of New York,  13204,               node1.planetlab.albany.edu,    169.226.40.2,  42.68670000, -73.82340000 
+ 11410,           University at Albany, State University of New York,  13205,               node2.planetlab.albany.edu,    169.226.40.4,  42.68670000, -73.82340000 
+ 10064,                                      George Mason University,  11504,                       plgmu3.ite.gmu.edu,   199.26.254.67,  38.51000000, -77.18000000 
+ 10064,                                      George Mason University,  11505,                       plgmu4.ite.gmu.edu,   199.26.254.68,  38.51000000, -77.18000000 
+ 10064,                                      George Mason University,  10195,                       plgmu1.ite.gmu.edu,   199.26.254.69,  38.51000000, -77.18000000 
+ 10064,                                      George Mason University,  10254,                       plgmu2.ite.gmu.edu,   199.26.254.66,  38.51000000, -77.18000000 
+ 10064,                                      George Mason University,  13621,                       plgmu5.ite.gmu.edu,   199.26.254.70,  38.51000000, -77.18000000 
+    86,                                             NEC Laboratories,  10234,                       plab2.nec-labs.com,    138.15.10.56,  40.37000000, -74.64000000 
+    86,                                             NEC Laboratories,  10235,                       plab1.nec-labs.com,    138.15.10.55,  40.37000000, -74.64000000 
+ 11480,                    National University of Defense Technology,  13549,              planetlab-2.pdl.nudt.edu.cn,    202.197.15.3,  28.22700000, 112.99600000 
+ 11480,                    National University of Defense Technology,  13550,              planetlab-1.pdl.nudt.edu.cn,    202.197.15.1,  28.22700000, 112.99600000 
+ 10242,                        Humboldt-Universitaet zu Berlin - IWI,  10855,             planetlab1.wiwi.hu-berlin.de,  141.20.103.210,  52.52110000,  13.40310000 
+ 10242,                        Humboldt-Universitaet zu Berlin - IWI,  10856,             planetlab2.wiwi.hu-berlin.de,  141.20.103.211,  52.52110000,  13.40310000 
+    17,                                              Duke University,     46,                   planetlab1.cs.duke.edu,     152.3.138.1,  36.00880000, -78.94270000 
+    17,                                              Duke University,     48,                   planetlab3.cs.duke.edu,     152.3.138.3,  36.00880000, -78.94270000 
+    17,                                              Duke University,  10647,                   planetlab5.cs.duke.edu,     152.3.138.5,  36.00880000, -78.94270000 
+    17,                                              Duke University,     47,                   planetlab2.cs.duke.edu,     152.3.138.2,  36.00880000, -78.94270000 
+    17,                                              Duke University,  10646,                   planetlab4.cs.duke.edu,     152.3.138.4,  36.00880000, -78.94270000 
+    17,                                              Duke University,  13481,                   planetlab6.cs.duke.edu,     152.3.138.6,  36.00880000, -78.94270000 
+    17,                                              Duke University,  13483,                   planetlab7.cs.duke.edu,     152.3.138.7,  36.00880000, -78.94270000 
+    33,                                           Cornell University,  10648,                planetlab5.cs.cornell.edu,   128.84.154.44,  42.44360000, -76.48160000 
+    33,                                           Cornell University,     67,                planetlab1.cs.cornell.edu,   128.84.154.49,  42.44360000, -76.48160000 
+    33,                                           Cornell University,     39,                planetlab2.cs.cornell.edu,   128.84.154.71,  42.44360000, -76.48160000 
+    33,                                           Cornell University,  10649,                planetlab6.cs.cornell.edu,   128.84.154.45,  42.44360000, -76.48160000 
+    33,                                           Cornell University,  10240,            planetlab4-dsl.cs.cornell.edu, 141.149.218.209,  42.44360000, -76.48160000 
+    33,                                           Cornell University,  10239,            planetlab3-dsl.cs.cornell.edu, 141.149.218.208,  42.44360000, -76.48160000 
+ 10148,                         University of Central Florida - EECS,  10842,                  planetlab2.eecs.ucf.edu,    132.170.3.33,  28.33000000, -81.23000000 
+ 10148,                         University of Central Florida - EECS,  10841,                  planetlab1.eecs.ucf.edu,    132.170.3.32,  28.33000000, -81.23000000 
+ 11528,                             New York Institute of Technology,  13766,                 planetlab1.cnis.nyit.edu,   108.58.13.205,  40.81400000, -73.60810000 
+ 11528,                             New York Institute of Technology,  13767,                 planetlab2.cnis.nyit.edu,   108.58.13.206,  40.81400000, -73.60810000 
+ 10107,                            University of South Florida (CSE),  10390,                  planetlab2.csee.usf.edu,   131.247.2.242,  28.05870000, -82.41520000 
+ 10107,                            University of South Florida (CSE),  10383,                  planetlab1.csee.usf.edu,   131.247.2.241,  28.05870000, -82.41520000 
+ 10107,                            University of South Florida (CSE),  11042,                  planetlab4.csee.usf.edu,   131.247.2.245,  28.05870000, -82.41520000 
+ 10107,                            University of South Florida (CSE),  11011,                  planetlab3.csee.usf.edu,   131.247.2.247,  28.05870000, -82.41520000 
+ 10107,                            University of South Florida (CSE),  13538,                  planetlab6.csee.usf.edu,   131.247.2.248,  28.05870000, -82.41520000 
+ 10107,                            University of South Florida (CSE),  13529,                  planetlab5.csee.usf.edu,   131.247.2.246,  28.05870000, -82.41520000 
+ 10205,                               ETH Zuerich - Computer Science,  10697,                   planetlab2.inf.ethz.ch,    192.33.90.67,  47.37940000,   8.54513000 
+ 10205,                               ETH Zuerich - Computer Science,  10737,                   planetlab4.inf.ethz.ch,    192.33.90.69,  47.37940000,   8.54513000 
+ 10205,                               ETH Zuerich - Computer Science,  10736,                   planetlab3.inf.ethz.ch,    192.33.90.68,  47.37940000,   8.54513000 
+ 10205,                               ETH Zuerich - Computer Science,  10695,                   planetlab1.inf.ethz.ch,    192.33.90.66,  47.37940000,   8.54513000 
+ 10209,         Facultad de Ingenieria - Universidad de la Republica,  10744,                  planetlab-1.fing.edu.uy,   164.73.47.242, -34.91840000, -56.16670000 
+ 10209,         Facultad de Ingenieria - Universidad de la Republica,  10745,                  planetlab-2.fing.edu.uy,   164.73.47.244, -34.91840000, -56.16670000 
+ 10006,                                 Northeastern University CCIS,  10918,                 planetlabone.ccs.neu.edu,  129.10.120.193,  42.37000000, -71.03000000 
+ 10006,                                 Northeastern University CCIS,  10919,                 planetlabtwo.ccs.neu.edu,  129.10.120.194,  42.37000000, -71.03000000 
+   188,                                       University of Victoria,  10891,                    pl2.planetlab.uvic.ca,  142.104.21.243,  48.42000000, -123.37000000 
+   188,                                       University of Victoria,  10894,                    pl5.planetlab.uvic.ca,  142.104.21.237,  48.42000000, -123.37000000 
+   188,                                       University of Victoria,  10893,                    pl4.planetlab.uvic.ca,  142.104.21.239,  48.42000000, -123.37000000 
+   188,                                       University of Victoria,  10890,                    pl1.planetlab.uvic.ca,  142.104.21.245,  48.42000000, -123.37000000 
+   188,                                       University of Victoria,  10892,                    pl3.planetlab.uvic.ca,  142.104.21.241,  48.42000000, -123.37000000 
+     2,                                           Harvard University,     78,               righthand.eecs.harvard.edu,  140.247.60.126,  42.37880000, -71.11640000 
+     2,                                           Harvard University,     77,                lefthand.eecs.harvard.edu,  140.247.60.123,  42.37880000, -71.11640000 
+ 10109,                          University of California, Riverside,  10381,                   planet-lab1.cs.ucr.edu,  169.235.24.133,  33.95000000, -117.39000000 
+ 10109,                          University of California, Riverside,  10382,                   planet-lab2.cs.ucr.edu,  169.235.24.232,  33.95000000, -117.39000000 
+ 10247,                University of Texas Dallas - Computer Science,  11091,                  planetlab2.utdallas.edu,  129.110.125.52,  32.98610000, -96.75000000 
+ 10247,                University of Texas Dallas - Computer Science,  11090,                  planetlab1.utdallas.edu,  129.110.125.51,  32.98610000, -96.75000000 
+   167,                                            Canarie - Calgary,   3318, planet1.calgary.canet4.nodes.planet-lab.org,  205.189.32.129,  51.04480000, -114.06300000 
+   167,                                            Canarie - Calgary,   3319, planet2.calgary.canet4.nodes.planet-lab.org,  205.189.32.131,  51.04480000, -114.06300000 
+ 10225,                                                          CWI,  10804,         146-179.surfsnel.dsl.internl.net,  145.99.179.146,  52.22000000,   4.53000000 
+ 10225,                                                          CWI,  10805,         147-179.surfsnel.dsl.internl.net,  145.99.179.147,  52.22000000,   4.53000000 
+   206,                                          AT&T Labs--Research,   8235,         planet2.att.nodes.planet-lab.org,   204.178.4.164,  40.73000000, -74.18000000 
+   206,                                          AT&T Labs--Research,   8236,         planet1.att.nodes.planet-lab.org,   204.178.4.163,  40.73000000, -74.18000000 
+ 10007,                        Indian Institute Of Technology Bombay,  10029,                    planetlab2.iitb.ac.in, 203.200.234.182,  18.58000000,  72.50000000 
+ 10007,                        Indian Institute Of Technology Bombay,  10087,                    planetlab1.iitb.ac.in, 203.200.234.181,  18.58000000,  72.50000000 
+    77,                                                       Purdue,    160,                 planetlab2.cs.purdue.edu,    128.10.19.53,  40.42740000, -86.91670000 
+    77,                                                       Purdue,    159,                 planetlab1.cs.purdue.edu,    128.10.19.52,  40.42740000, -86.91670000 
+ 10085,                                    Colorado State University,  10268,             planetlab-2.cs.colostate.edu,   129.82.12.188,  40.35000000, -105.05000000 
+ 10085,                                    Colorado State University,  10267,             planetlab-1.cs.colostate.edu,   129.82.12.187,  40.35000000, -105.05000000 
+ 11550,                               Universidad Publica de Navarra,  13849,               planetlab1.tlm.unavarra.es, 130.206.158.138,  42.79930000,  -1.63544000 
+ 11550,                               Universidad Publica de Navarra,  13848,               planetlab2.tlm.unavarra.es, 130.206.158.140,  42.79930000,  -1.63544000 
+    19,                                         University of Kansas,     92,                        kupl1.ittc.ku.edu, 129.237.161.193,  38.95270000, -95.26440000 
+    19,                                         University of Kansas,     93,                        kupl2.ittc.ku.edu, 129.237.161.194,  38.95270000, -95.26440000 
+    22,                    University of California at Santa Barbara,  13626,                      planet6.cs.ucsb.edu,   128.111.52.59,  34.42850000, -119.72200000 
+    22,                    University of California at Santa Barbara,  13625,                      planet5.cs.ucsb.edu,   128.111.52.58,  34.42850000, -119.72200000 
+    22,                    University of California at Santa Barbara,  11383,                      planet4.cs.ucsb.edu,   128.111.52.64,  34.42850000, -119.72200000 
+    22,                    University of California at Santa Barbara,  11382,                      planet3.cs.ucsb.edu,   128.111.52.63,  34.42850000, -119.72200000 
+ 11426,          Ege Universitesi - International Computer Institute,  13502,               planetlab1.plab.ege.edu.tr,    155.223.52.1,  38.45740000,  27.21450000 
+ 11426,          Ege Universitesi - International Computer Institute,  13510,               planetlab2.plab.ege.edu.tr,    155.223.52.3,  38.45740000,  27.21450000 
+   144,                          Dartmouth College, Computer Science,   3320,              planetlab1.cs.dartmouth.edu, planetlab1.cs.dartmouth.edu,  41.61670000, -70.96670000 
+   144,                          Dartmouth College, Computer Science,   3321,              planetlab2.cs.dartmouth.edu, planetlab2.cs.dartmouth.edu,  41.61670000, -70.96670000 
+    79,                                                      HP Labs,  11511,                     pli1-pa-6.hpl.hp.com,   204.123.28.57,  37.44000000, -122.15000000 
+    79,                                                      HP Labs,   8290,                     pli1-pa-5.hpl.hp.com,   204.123.28.56,  37.44000000, -122.15000000 
+    79,                                                      HP Labs,   3412,                     pli1-pa-4.hpl.hp.com,   204.123.28.55,  37.44000000, -122.15000000 
+   155,                              Stevens Institute of Technology,   3398,           planetlab1.cs.stevens-tech.edu,  155.246.12.163,  40.75000000, -74.03330000 
+   155,                              Stevens Institute of Technology,   3397,           planetlab2.cs.stevens-tech.edu,  155.246.12.164,  40.75000000, -74.03330000 
+ 10098,                    Max Planck Institute for Software Systems,  10336,               planetlab06.mpi-sws.mpg.de,    139.19.142.6,  49.14000000,   6.59000000 
+ 10098,                    Max Planck Institute for Software Systems,  10335,               planetlab05.mpi-sws.mpg.de,    139.19.142.5,  49.14000000,   6.59000000 
+ 10098,                    Max Planck Institute for Software Systems,  10331,               planetlab01.mpi-sws.mpg.de,    139.19.142.1,  49.14000000,   6.59000000 
+ 10098,                    Max Planck Institute for Software Systems,  10332,               planetlab02.mpi-sws.mpg.de,    139.19.142.2,  49.14000000,   6.59000000 
+ 10098,                    Max Planck Institute for Software Systems,  10334,               planetlab04.mpi-sws.mpg.de,    139.19.142.4,  49.14000000,   6.59000000 
+ 10098,                    Max Planck Institute for Software Systems,  10333,               planetlab03.mpi-sws.mpg.de,    139.19.142.3,  49.14000000,   6.59000000 
+ 10097,                                     Brigham Young University,  10329,                       planetlab1.byu.edu, 128.187.223.211,  40.14000000, -111.39000000 
+ 10097,                                     Brigham Young University,  10330,                       planetlab2.byu.edu, 128.187.223.212,  40.14000000, -111.39000000 
+    14,                                     University of Washington,  10525,            planetlab04.cs.washington.edu,    128.208.4.99,  47.65310000, -122.31300000 
+    14,                                     University of Washington,  13513,            planetlab05.cs.washington.edu,   128.208.3.180,  47.65310000, -122.31300000 
+    14,                                     University of Washington,     36,            planetlab03.cs.washington.edu,   128.208.4.199,  47.65310000, -122.31300000 
+    14,                                     University of Washington,     35,            planetlab02.cs.washington.edu,   128.208.4.198,  47.65310000, -122.31300000 
+    14,                                     University of Washington,  13514,            planetlab06.cs.washington.edu,   128.208.3.184,  47.65310000, -122.31300000 
+    14,                                     University of Washington,     34,            planetlab01.cs.washington.edu,   128.208.4.197,  47.65310000, -122.31300000 
+ 10057,                                      Simon Fraser University,  11038,           cs-planetlab4.cs.surrey.sfu.ca,   206.12.16.155,  49.15000000, -122.57000000 
+ 10057,                                      Simon Fraser University,  11003,           cs-planetlab3.cs.surrey.sfu.ca,   206.12.16.154,  49.15000000, -122.57000000 
+ 10066,                                     University of Pittsburgh,  10176,                   planetlab2.cs.pitt.edu,   130.49.221.41,  40.26000000, -80.00000000 
+ 10066,                                     University of Pittsburgh,  10175,                   planetlab1.cs.pitt.edu,   130.49.221.40,  40.26000000, -80.00000000 
+ 10190,                                        University of Houston,  10680,                    planetlab-2.cs.uh.edu, 208.117.131.116,  29.72130000, -95.34340000 
+ 10190,                                        University of Houston,  10679,                    planetlab-1.cs.uh.edu, 208.117.131.115,  29.72130000, -95.34340000 
+ 10051, Universidade Federal de Campina Grande - LaboratÃ³rio de Sistemas DistribuÃ­dos,  10171,               planetlab2.lsd.ufcg.edu.br, planetlab2.lsd.ufcg.edu.br,  -7.25000000, -35.83330000 
+ 10051, Universidade Federal de Campina Grande - LaboratÃ³rio de Sistemas DistribuÃ­dos,  13469,               planetlab3.gmf.ufcg.edu.br, planetlab3.gmf.ufcg.edu.br,  -7.25000000, -35.83330000 
+ 10051, Universidade Federal de Campina Grande - LaboratÃ³rio de Sistemas DistribuÃ­dos,  10132,               planetlab1.lsd.ufcg.edu.br, planetlab1.lsd.ufcg.edu.br,  -7.25000000, -35.83330000 
+ 10061,                             University of Florida - ACIS Lab,  10173,                  planetlab2.acis.ufl.edu,  128.227.150.12,  29.68000000, -82.27000000 
+ 10061,                             University of Florida - ACIS Lab,  10172,                  planetlab1.acis.ufl.edu,  128.227.150.11,  29.68000000, -82.27000000 
+ 10128,                                   University of Saskatchewan,  10469,                     planetlab-1.usask.ca,  128.233.252.11,  52.13000000, -106.65000000 
+ 10128,                                   University of Saskatchewan,  10470,                     planetlab-2.usask.ca,  128.233.252.12,  52.13000000, -106.65000000 
+ 11395,                                          University of Otago,  13169,                planetlab1.cs.otago.ac.nz,  139.80.206.132, -45.86560000, 170.51400000 
+ 11395,                                          University of Otago,  13170,                planetlab2.cs.otago.ac.nz,  139.80.206.133, -45.86560000, 170.51400000 
+ 10037,                                            Intel IT - Folsom,  10741,                 planetdev01.fm.intel.com, 198.175.112.104,  38.41000000, -121.11000000 
+ 10037,                                            Intel IT - Folsom,  10837,                 planetdev04.fm.intel.com, 198.175.112.107,  38.41000000, -121.11000000 
+ 10037,                                            Intel IT - Folsom,  10838,                 planetdev05.fm.intel.com, 198.175.112.108,  38.41000000, -121.11000000 
+ 10037,                                            Intel IT - Folsom,  10740,                 planetdev02.fm.intel.com, 198.175.112.105,  38.41000000, -121.11000000 
+ 10326,                                         University of Ottawa,  13334,                       pl1.rcc.uottawa.ca,    216.48.80.12,  45.42050000, -75.68130000 
+ 10326,                                         University of Ottawa,  13335,                       pl2.rcc.uottawa.ca,    216.48.80.14,  45.42050000, -75.68130000 
+ 10286,                                        Osaka City University,  11058,     planetlab2.n.info.eng.osaka-cu.ac.jp, 160.193.163.102,  34.59270000, 135.50400000 
+ 10286,                                        Osaka City University,  11019,     planetlab1.n.info.eng.osaka-cu.ac.jp, 160.193.163.101,  34.59270000, 135.50400000 
+ 10286,                                        Osaka City University,  13323,     planetlab3.n.info.eng.osaka-cu.ac.jp, 160.193.163.105,  34.59270000, 135.50400000 
+ 10286,                                        Osaka City University,  13342,     planetlab4.n.info.eng.osaka-cu.ac.jp, 160.193.163.106,  34.59270000, 135.50400000 
+ 10250,                           Toyohashi University of Technology,  10882,              pl2.planetlab.ics.tut.ac.jp,     133.15.59.2,  34.70080000, 137.41000000 
+ 10250,                           Toyohashi University of Technology,  10881,              pl1.planetlab.ics.tut.ac.jp,     133.15.59.1,  34.70080000, 137.41000000 
+ 10208,                                                Virginia Tech,  11372,     planetlab-01.vt.nodes.planet-lab.org,  198.82.160.238,  37.20550000, -80.41240000 
+ 10208,                                                Virginia Tech,  11373,     planetlab-02.vt.nodes.planet-lab.org,  198.82.160.239,  37.20550000, -80.41240000 
+ 10208,                                                Virginia Tech,  13508,     planetlab-04.vt.nodes.planet-lab.org,  198.82.160.221,  37.20550000, -80.41240000 
+ 10208,                                                Virginia Tech,  13507,     planetlab-03.vt.nodes.planet-lab.org,  198.82.160.220,  37.20550000, -80.41240000 
+ 10044,                                        Georgetown University,  10118,                planetlab2.georgetown.edu,   141.161.20.33,  38.54000000, -77.04000000 
+ 10044,                                        Georgetown University,  10117,                planetlab1.georgetown.edu,   141.161.20.32,  38.54000000, -77.04000000 
+   120,                                         University of Oregon,  13431,                planetlab1.cs.uoregon.edu,   128.223.8.111,  44.04000000, -123.06000000 
+   120,                                         University of Oregon,  13428,                planetlab4.cs.uoregon.edu,   128.223.8.114,  44.04000000, -123.06000000 
+   120,                                         University of Oregon,  13430,                planetlab3.cs.uoregon.edu,   128.223.8.113,  44.04000000, -123.06000000 
+   120,                                         University of Oregon,  13429,                planetlab2.cs.uoregon.edu,   128.223.8.112,  44.04000000, -123.06000000 
+ 11478,              Hiroshima City University - Information Science,  13545,          pl1.sos.info.hiroshima-cu.ac.jp,  165.242.90.128,  34.44030000, 132.41500000 
+ 11478,              Hiroshima City University - Information Science,  13546,          pl2.sos.info.hiroshima-cu.ac.jp,  165.242.90.129,  34.44030000, 132.41500000 
+ 11545,                                       University of Konstanz,  13788,          dannan.disy.inf.uni-konstanz.de,    134.34.246.4,  51.12000000,  10.54000000 
+ 11545,                                       University of Konstanz,  13790,         chronos.disy.inf.uni-konstanz.de,    134.34.246.5,  51.12000000,  10.54000000 
+ 10106,                                     Jacobs University Bremen,  10831,     planetlab1.eecs.jacobs-university.de,   212.201.44.81,  53.04000000,   8.49000000 
+ 10106,                                     Jacobs University Bremen,  10832,     planetlab2.eecs.jacobs-university.de,   212.201.44.82,  53.04000000,   8.49000000 
+ 10176,                              Worcester Polytechnic Institute,  10627,  75-130-96-13.static.oxfr.ma.charter.com,    75.130.96.13,  42.27360000, -71.80980000 
+ 10176,                              Worcester Polytechnic Institute,  10626,  75-130-96-12.static.oxfr.ma.charter.com,    75.130.96.12,  42.27360000, -71.80980000 
+   228,                                                  RNP - Ceara,   8316,                 planetlab2.pop-ce.rnp.br,   200.129.0.162,  -3.73520000, -38.58160000 
+   228,                                                  RNP - Ceara,   8315,                 planetlab1.pop-ce.rnp.br,   200.129.0.161,  -3.73520000, -38.58160000 
+   118,                                                        KAIST,    330,                 csplanetlab4.kaist.ac.kr, 143.248.139.171,  37.00000000, 127.50000000 
+   118,                                                        KAIST,    331,                 csplanetlab3.kaist.ac.kr,  143.248.139.56,  37.00000000, 127.50000000 
+   217,                                             Brown University,  10909,                      saturn.cs.brown.edu,    198.7.242.40,  41.82000000, -71.42000000 
+   217,                                             Brown University,  10910,                     jupiter.cs.brown.edu,    198.7.242.41,  41.82000000, -71.42000000 
+   217,                                             Brown University,  10911,                       pluto.cs.brown.edu,    198.7.242.42,  41.82000000, -71.42000000 
+   217,                                             Brown University,  10912,                       earth.cs.brown.edu,    198.7.242.43,  41.82000000, -71.42000000 
+    13,                                                    Princeton,  13295,            planetlab-03.cs.princeton.edu,  128.112.139.97,  40.35020000, -74.65240000 
+    13,                                                    Princeton,  13293,            planetlab-01.cs.princeton.edu,  128.112.139.42,  40.35020000, -74.65240000 
+    13,                                                    Princeton,  13296,            planetlab-04.cs.princeton.edu,  128.112.139.18,  40.35020000, -74.65240000 
+    13,                                                    Princeton,  13294,            planetlab-02.cs.princeton.edu,  128.112.139.43,  40.35020000, -74.65240000 
+ 10267,                                        Kent State University,  11490,                   pl3.planet.cs.kent.edu,   131.123.34.37,  41.14500000, -81.34160000 
+ 10267,                                        Kent State University,  11488,                   pl1.planet.cs.kent.edu,   131.123.34.35,  41.14500000, -81.34160000 
+ 10267,                                        Kent State University,  11489,                   pl2.planet.cs.kent.edu,   131.123.34.36,  41.14500000, -81.34160000 
+ 11496,                     University of Calgary - Computer Science,  13661,       planetlab-2.elisa.cpsc.ucalgary.ca,  136.159.220.42,  51.07750000, -114.13300000 
+ 11496,                     University of Calgary - Computer Science,  13639,       planetlab-1.elisa.cpsc.ucalgary.ca,  136.159.220.40,  51.07750000, -114.13300000 
+ 10150,                             University of Texas at Arlington,  11510,                       planetlab2.uta.edu,  129.107.35.132,  32.73000000, -97.11500000 
+ 10150,                             University of Texas at Arlington,  10522,                       planetlab1.uta.edu,  129.107.35.131,  32.73000000, -97.11500000 
+ 11436,                                    Loyola University Chicago,  13414,              node0.planetlab.etl.luc.edu,   147.126.66.15,  41.89740000, -87.62530000 
+ 11436,                                    Loyola University Chicago,  13415,              node1.planetlab.etl.luc.edu,   147.126.66.17,  41.89740000, -87.62530000 
+ 11512,                               Nagoya Institute of Technology,  13719,                 planet1.pnl.nitech.ac.jp,  133.68.253.242,  35.15660000, 136.92500000 
+ 11512,                               Nagoya Institute of Technology,  13720,                 planet2.pnl.nitech.ac.jp,  133.68.253.243,  35.15660000, 136.92500000 
+ 10136,                               LARC - University of Sao Paulo,  11069,                        plab2.larc.usp.br, 143.107.111.235, -23.55520000, -46.53120000 
+ 10136,                               LARC - University of Sao Paulo,  11068,                        plab1.larc.usp.br, 143.107.111.234, -23.55520000, -46.53120000 
+ 10158,            Singapore Advanced Research and Education Network,  10600,               planetlab2.singaren.net.sg,   203.30.39.241,   1.45141000, 103.91800000 
+ 10158,            Singapore Advanced Research and Education Network,  13343,               planetlab4.singaren.net.sg,   203.30.39.243,   1.45141000, 103.91800000 
+ 10158,            Singapore Advanced Research and Education Network,  10601,               planetlab3.singaren.net.sg,   203.30.39.242,   1.45141000, 103.91800000 
+ 10158,            Singapore Advanced Research and Education Network,  10599,               planetlab1.singaren.net.sg,   203.30.39.240,   1.45141000, 103.91800000 
+ 11551,                               University of Stuttgart - IPVS,  13781,    planetvs2.informatik.uni-stuttgart.de,   129.69.210.97,  48.78350000,   9.17517000 
+ 11551,                               University of Stuttgart - IPVS,  13780,    planetvs1.informatik.uni-stuttgart.de,   129.69.210.96,  48.78350000,   9.17517000 
+ 11394,     C3SL - Centro de Computacao Cientifica e Software Livre ,  13168,                  planetlab2.c3sl.ufpr.br,  200.17.202.195, -25.45070000, -49.23180000 
+ 11394,     C3SL - Centro de Computacao Cientifica e Software Livre ,  13167,                  planetlab1.c3sl.ufpr.br,  200.17.202.194, -25.45070000, -49.23180000 
+   131,                           Ben-Gurion University of the Negev,   3231,                     planetlab2.bgu.ac.il,    132.72.23.11,  31.50000000,  34.75000000 
+   131,                           Ben-Gurion University of the Negev,   3230,                     planetlab1.bgu.ac.il,    132.72.23.10,  31.50000000,  34.75000000 
+ 10138,                                  Washington State University,  10484,                  planetlab1.eecs.wsu.edu,    134.121.64.4,  46.73100000, -117.17800000 
+ 10138,                                  Washington State University,  10485,                  planetlab2.eecs.wsu.edu,    134.121.64.7,  46.73100000, -117.17800000 
+   150,                              Warsaw University of Technology,  10700,                planetlab4.mini.pw.edu.pl,   194.29.178.14,  52.22070000,  21.01040000 
+   150,                              Warsaw University of Technology,  10699,                planetlab3.mini.pw.edu.pl,   194.29.178.13,  52.22070000,  21.01040000 
+ 11445,                            University of Illinois at Chicago,  13409,                   planetlab-1.cs.uic.edu,   131.193.34.21,  41.87080000, -87.65050000 
+ 11445,                            University of Illinois at Chicago,  13410,                   planetlab-2.cs.uic.edu,   131.193.34.38,  41.87080000, -87.65050000 
+ 11434,                                   The University of Auckland,  13320,            planetlab-2.cs.auckland.ac.nz,    130.216.1.23, -36.85350000, 174.77100000 
+ 11434,                                   The University of Auckland,  13319,            planetlab-1.cs.auckland.ac.nz,    130.216.1.22, -36.85350000, 174.77100000 
+ 10280,                                  Universidad de Buenos Aires,  13266,                       planet-lab2.uba.ar,   157.92.44.102, -34.59750000, -58.39850000 
+ 10280,                                  Universidad de Buenos Aires,  13157,                       planet-lab1.uba.ar,   157.92.44.101, -34.59750000, -58.39850000 
+    59,                                    University College London,  13179,                  planetlab1.cs.ucl.ac.uk,    193.63.58.70,  51.50000000,  -0.17000000 
+    59,                                    University College London,  13180,                  planetlab2.cs.ucl.ac.uk,    193.63.58.71,  51.50000000,  -0.17000000 
+ 10133,                                    San Jose State University,  10580,                      plab1.engr.sjsu.edu,    130.65.6.225,  37.59000000, -121.89000000 
+ 10133,                                    San Jose State University,  10581,                      plab2.engr.sjsu.edu,    130.65.6.227,  37.59000000, -121.89000000 
+ 10067,                    University of North Carolina at Charlotte,  13136,                     planetlab04.uncc.edu,  152.15.253.190,  35.30610000, -80.73260000 
+ 10067,                    University of North Carolina at Charlotte,  13135,                     planetlab03.uncc.edu,  152.15.253.191,  35.30610000, -80.73260000 
+ 10067,                    University of North Carolina at Charlotte,  10177,                     planetlab02.uncc.edu,   152.15.98.227,  35.30610000, -80.73260000 
+ 10067,                    University of North Carolina at Charlotte,  10326,                     planetlab01.uncc.edu,   152.15.98.226,  35.30610000, -80.73260000 
+    57,                  University of North Carolina at Chapel Hill,  10096,                    planetlab1.cs.unc.edu,   204.85.191.10,  35.92000000, -79.04000000 
+    57,                  University of North Carolina at Chapel Hill,  10932,                    planetlab2.cs.unc.edu,   204.85.191.11,  35.92000000, -79.04000000 
+ 11425,                                           Colgate University,  13489,                          ebb.colgate.edu,    149.43.80.20,  42.81890000, -75.53570000 
+ 11425,                                           Colgate University,  13413,                         flow.colgate.edu,    149.43.80.22,  42.81890000, -75.53570000 
+    66,                                National Tsing Hua University,    155,                    pads21.cs.nthu.edu.tw,  140.114.79.231,  23.50000000, 121.00000000 
+    66,                                National Tsing Hua University,    152,                    pads23.cs.nthu.edu.tw,  140.114.79.233,  23.50000000, 121.00000000 
+   189,                             National University of Singapore,  10905,               planetlab2.comp.nus.edu.sg,  137.132.80.105,   1.37000000, 103.80000000 
+   189,                             National University of Singapore,  11089,               planetlab3.comp.nus.edu.sg,  137.132.80.110,   1.37000000, 103.80000000 
+   189,                             National University of Singapore,  10904,               planetlab1.comp.nus.edu.sg,  137.132.80.106,   1.37000000, 103.80000000 
+    23,                        Massachusetts Institute of Technology,     49,                 planetlab1.csail.mit.edu,     128.31.1.11,  42.36300000, -71.09260000 
+    23,                        Massachusetts Institute of Technology,     51,                 planetlab2.csail.mit.edu,     128.31.1.12,  42.36300000, -71.09260000 
+    23,                        Massachusetts Institute of Technology,    363,                 planetlab4.csail.mit.edu,     128.31.1.14,  42.36300000, -71.09260000 
+    23,                        Massachusetts Institute of Technology,    362,                 planetlab7.csail.mit.edu,     128.31.1.17,  42.36300000, -71.09260000 
+    23,                        Massachusetts Institute of Technology,    361,                 planetlab5.csail.mit.edu,     128.31.1.15,  42.36300000, -71.09260000 
+    23,                        Massachusetts Institute of Technology,     50,                 planetlab3.csail.mit.edu,     128.31.1.13,  42.36300000, -71.09260000 
+    23,                        Massachusetts Institute of Technology,    360,                 planetlab6.csail.mit.edu,     128.31.1.16,  42.36300000, -71.09260000 
+ 10069,                         Telekomunikacja Polska R&D at Warsaw,  13391,               planetlab2.warsaw.rd.tp.pl,   195.116.53.12,  52.17630000,  21.00170000 
+ 10069,                         Telekomunikacja Polska R&D at Warsaw,  10201,               planetlab1.warsaw.rd.tp.pl,   195.116.53.11,  52.17630000,  21.00170000 
+ 10069,                         Telekomunikacja Polska R&D at Warsaw,  10848,               planetlab4.warsaw.rd.tp.pl,   195.116.53.14,  52.17630000,  21.00170000 
+ 11515,           Beijing University of Posts and Telecommunications,  13958,                   planetlab4.bupt.edu.cn,    211.68.70.42,  39.96060000, 116.35900000 
+ 11515,           Beijing University of Posts and Telecommunications,  13959,                   planetlab3.bupt.edu.cn,    211.68.70.40,  39.96060000, 116.35900000 
+ 11515,           Beijing University of Posts and Telecommunications,  13688,                   planetlab1.bupt.edu.cn,    211.68.70.34,  39.96060000, 116.35900000 
+ 11515,           Beijing University of Posts and Telecommunications,  13689,                   planetlab2.bupt.edu.cn,    211.68.70.36,  39.96060000, 116.35900000 
+ 11460,                        Greek Research and Technology Network,  13437,                           mlab3.gr-ix.gr,  mlab3.gr-ix.gr,  37.97130000,  23.74240000 
+ 11460,                        Greek Research and Technology Network,  13434,                           mlab1.gr-ix.gr,  mlab1.gr-ix.gr,  37.97130000,  23.74240000 
+ 11460,                        Greek Research and Technology Network,  13435,                           mlab2.gr-ix.gr,  mlab2.gr-ix.gr,  37.97130000,  23.74240000 
+ 11472,                                             BBN Technologies,  13628,                 plnode-04.gpolab.bbn.com,   192.1.249.138,  42.39070000, -71.14780000 
+ 11472,                                             BBN Technologies,  13627,                 plnode-03.gpolab.bbn.com,   192.1.249.137,  42.39070000, -71.14780000 
+ 10001,                              Case Western Reserve University,  11485,                planetlab-5.eecs.cwru.edu,   129.22.150.78,  41.50220000, -81.60790000 
+ 10001,                              Case Western Reserve University,  11484,                planetlab-4.eecs.cwru.edu,   129.22.150.29,  41.50220000, -81.60790000 
+ 10215,                             PlanetLab Colo - CLARA Sao Paulo,  10757,     planetlab1-saopaulo.lan.redclara.net,   200.0.206.136,   1.00000000,   1.00000000 
+ 10215,                             PlanetLab Colo - CLARA Sao Paulo,  10758,     planetlab2-saopaulo.lan.redclara.net,   200.0.206.137,   1.00000000,   1.00000000 
+    44,                          The Chinese University of Hong Kong,  10185,                planetlab2.ie.cuhk.edu.hk,   137.189.97.18,  22.30000000, 114.16600000 
+    44,                          The Chinese University of Hong Kong,  10658,                planetlab5.ie.cuhk.edu.hk,   137.189.98.32,  22.30000000, 114.16600000 
+    44,                          The Chinese University of Hong Kong,  10656,                planetlab4.ie.cuhk.edu.hk,   137.189.98.31,  22.30000000, 114.16600000 
+    44,                          The Chinese University of Hong Kong,  10154,                planetlab1.ie.cuhk.edu.hk,   137.189.97.17,  22.30000000, 114.16600000 
+    44,                          The Chinese University of Hong Kong,  10655,                planetlab6.ie.cuhk.edu.hk, planetlab6.ie.cuhk.edu.hk,  22.30000000, 114.16600000 
+ 10038,                            University of Colorado at Boulder,  13524,               planetlab2.cs.colorado.edu,  128.138.207.45,  40.00720000, -105.26200000 
+ 10038,                            University of Colorado at Boulder,  10112,               planetlab1.cs.colorado.edu,  128.138.207.54,  40.00720000, -105.26200000 
+    15,                                   Carnegie Mellon University,     40,              planetlab-1.cmcl.cs.cmu.edu,   128.2.211.113,  40.44460000, -79.94270000 
+    15,                                   Carnegie Mellon University,     42,              planetlab-3.cmcl.cs.cmu.edu,   128.2.211.115,  40.44460000, -79.94270000 
+    15,                                   Carnegie Mellon University,     41,              planetlab-2.cmcl.cs.cmu.edu,   128.2.211.114,  40.44460000, -79.94270000 
+ 11498,                           University of Massachusetts Lowell,  13644,                    planetlab1.cs.uml.edu,  129.63.159.101,  42.65440000, -71.32660000 
+ 11498,                           University of Massachusetts Lowell,  13643,                    planetlab2.cs.uml.edu,  129.63.159.102,  42.65440000, -71.32660000 
+ 10159,                                                 WIDE Project,  10596,           planetlab1.otemachi.wide.ad.jp,   203.178.133.3,  36.10240000, 142.49300000 
+ 10159,                                                 WIDE Project,  10595,           planetlab0.otemachi.wide.ad.jp,   203.178.133.2,  36.10240000, 142.49300000 
+ 10159,                                                 WIDE Project,  10597,             planetlab0.dojima.wide.ad.jp,  203.178.133.10,  36.10240000, 142.49300000 
+ 10159,                                                 WIDE Project,  10598,             planetlab1.dojima.wide.ad.jp,  203.178.133.11,  36.10240000, 142.49300000 
+ 11450,                                           Suffolk University,  13422,                    metis.mcs.suffolk.edu, 192.138.213.238,  42.35920000, -71.06190000 
+ 11450,                                           Suffolk University,  13423,                 adrastea.mcs.suffolk.edu, 192.138.213.236,  42.35920000, -71.06190000 
+   128,                    Technion - Israel Institute of Technology,   3424,                    ds-pl1.technion.ac.il,   132.68.237.34,  31.50000000,  34.75000000 
+   128,                    Technion - Israel Institute of Technology,   3209,                    ds-pl3.technion.ac.il,   132.68.237.36,  31.50000000,  34.75000000 
+   128,                    Technion - Israel Institute of Technology,  10170,                    ds-pl2.technion.ac.il,   132.68.237.35,  31.50000000,  34.75000000 
+    16,                                          Columbia University,     94,               planetlab1.cs.columbia.edu,   128.59.20.226,  40.80800000, -73.96390000 
+    16,                                          Columbia University,     95,               planetlab2.cs.columbia.edu,   128.59.20.227,  40.80800000, -73.96390000 
+    16,                                          Columbia University,     96,               planetlab3.cs.columbia.edu,   128.59.20.228,  40.80800000, -73.96390000 
+ 11397,                                       University of Oklahoma,  13211,                          roam1.cs.ou.edu,    129.15.78.30,  35.20980000, -97.44240000 
+ 11397,                                       University of Oklahoma,  13212,                          roam2.cs.ou.edu,    129.15.78.31,  35.20980000, -97.44240000 
+   195,             GIST (Gwangju Institute of Science & Technology),  10406,           planetlab2.netmedia.gist.ac.kr,   210.125.84.42,  37.53000000, 127.00000000 
+   195,             GIST (Gwangju Institute of Science & Technology),  10397,           planetlab1.netmedia.gist.ac.kr,   210.125.84.41,  37.53000000, 127.00000000 
+   195,             GIST (Gwangju Institute of Science & Technology),  10540,           planetlab3.netmedia.gist.ac.kr,   210.125.84.43,  37.53000000, 127.00000000 
+   195,             GIST (Gwangju Institute of Science & Technology),  13680,           planetlab4.netmedia.gist.ac.kr,   210.125.84.44,  37.53000000, 127.00000000 
+ 10074,                  Royal Institute of Technology (KTH), Sweden,  10222,                  planetlab-2.ssvl.kth.se,   192.16.125.12,  59.52000000,  17.38000000 
+ 10074,                  Royal Institute of Technology (KTH), Sweden,  10208,                  planetlab-1.ssvl.kth.se,   192.16.125.11,  59.52000000,  17.38000000 
+ 11454,                              National Chung Cheng University,  13417,            planetlab-2.webedu.ccu.edu.tw, 140.123.230.249,  23.56190000, 120.47800000 
+ 11454,                              National Chung Cheng University,  13416,            planetlab-1.webedu.ccu.edu.tw, 140.123.230.248,  23.56190000, 120.47800000 
+   215,                                            Yonsei University,   8241,                  planetlab2.yonsei.ac.kr,  165.132.126.59,  37.53000000, 127.00000000 
+   215,                                            Yonsei University,   8313,                  planetlab1.yonsei.ac.kr,  165.132.126.58,  37.53000000, 127.00000000 
+ 11470,                                            Monash University,  13533,                    pl1.eng.monash.edu.au,   130.194.252.8, -37.90960000, 145.13300000 
+ 11470,                                            Monash University,  13536,                    pl2.eng.monash.edu.au,   130.194.252.9, -37.90960000, 145.13300000 
+ 10100,                             Indiana University (Bloomington),  11015,                      pl2.ucs.indiana.edu,  156.56.250.227,  39.17080000, -86.53720000 
+ 10100,                             Indiana University (Bloomington),  11014,                      pl1.ucs.indiana.edu,  156.56.250.226,  39.17080000, -86.53720000 
+ 10259,                 Federal University of ABC - Computer Science,  10926,                 planet-lab1.ufabc.edu.br, 200.133.215.141, -23.65370000, -46.53160000 
+ 10259,                 Federal University of ABC - Computer Science,  10927,                 planet-lab2.ufabc.edu.br, 200.133.215.142, -23.65370000, -46.53160000 
+    34,                         University of Tennessee at Knoxville,     11,                         pl1.eecs.utk.edu,   160.36.57.172,  35.94830000, -83.93670000 
+    34,                         University of Tennessee at Knoxville,     12,                         pl2.eecs.utk.edu,   160.36.57.173,  35.94830000, -83.93670000 
+    20,                            Washington University in St Louis,  11462,                        vn4.cse.wustl.edu,   128.252.19.19,  38.64790000, -90.30150000 
+    20,                            Washington University in St Louis,  13116,                        vn5.cse.wustl.edu,   128.252.19.18,  38.64790000, -90.30150000 
+ 11487,                     Texas Tech University - Computer Science,  13683,              ttu1-1.nodes.planet-lab.org,    66.140.111.5,  33.58740000, -101.87500000 
+ 11487,                     Texas Tech University - Computer Science,  13684,              ttu2-1.nodes.planet-lab.org,    66.140.111.7,  33.58740000, -101.87500000 
+ 11433,                                            Peking University,  13582,                           pl3.pku.edu.cn,  162.105.205.25,  39.98870000, 116.30700000 
+ 11433,                                            Peking University,  13583,                           pl2.pku.edu.cn,  162.105.205.22,  39.98870000, 116.30700000 
+ 11433,                                            Peking University,  13498,                           pl1.pku.edu.cn,  162.105.205.21,  39.98870000, 116.30700000 
+    37,                           California Institute of Technology,     16,                  planlab1.cs.caltech.edu,   131.215.45.71,  34.13830000, -118.12400000 
+    37,                           California Institute of Technology,     21,                  planlab2.cs.caltech.edu,   131.215.45.72,  34.13830000, -118.12400000 
+ 11461,                             Nanyang Technological University,  13587,          pnode1.pdcc-ntu.singaren.net.sg,   203.30.39.238,   1.34618000, 103.68200000 
+ 11461,                             Nanyang Technological University,  13581,          pnode2.pdcc-ntu.singaren.net.sg,   203.30.39.239,   1.34618000, 103.68200000 
+    90,                              Georgia Institute of Technology,  10591,                  planet4.cc.gt.atl.ga.us, 143.215.131.199,  33.77720000, -84.39760000 
+    90,                              Georgia Institute of Technology,     83,                  planet1.cc.gt.atl.ga.us, 143.215.131.206,  33.77720000, -84.39760000 
+    90,                              Georgia Institute of Technology,  10589,                  planet2.cc.gt.atl.ga.us, 143.215.131.197,  33.77720000, -84.39760000 
+    90,                              Georgia Institute of Technology,  10590,                  planet3.cc.gt.atl.ga.us, 143.215.131.198,  33.77720000, -84.39760000 
+     5,                                          New York University,      3,                   planet2.scs.cs.nyu.edu,  216.165.109.82,  40.72920000, -73.99370000 
+     5,                                          New York University,   8314,                   planetx.scs.cs.nyu.edu,  216.165.109.79,  40.72920000, -73.99370000 
+     5,                                          New York University,      2,                   planet1.scs.cs.nyu.edu,  216.165.109.81,  40.72920000, -73.99370000 
+ 11495,                                    The University of Waikato,  13645,                 planetlab-n1.wand.net.nz, 192.107.171.145, -37.78920000, 175.31800000 
+ 11495,                                    The University of Waikato,  13646,                 planetlab-n2.wand.net.nz, 192.107.171.147, -37.78920000, 175.31800000 
+    92,                         Universidade Federal de Minas Gerais,    202,                 planetlab2.pop-mg.rnp.br,   200.19.159.35, -19.93330000, -43.95000000 
+    92,                         Universidade Federal de Minas Gerais,    201,                 planetlab1.pop-mg.rnp.br,   200.19.159.34, -19.93330000, -43.95000000 
+ 10142,                University of Puerto Rico, Rio Piedras Campus,  10496,                  node1.planetlab.uprr.pr, 136.145.251.241,  36.80930000, -76.64060000 
+ 10142,                University of Puerto Rico, Rio Piedras Campus,  10497,                  node2.planetlab.uprr.pr, 136.145.251.242,  36.80930000, -76.64060000 
+ 10230,              Russian Research Centre Kurchatovskiy Instutute,  10818,                         pl1.grid.kiae.ru,   144.206.66.56,  55.79770000,  37.46730000 
+ 10230,              Russian Research Centre Kurchatovskiy Instutute,  10819,                         pl2.grid.kiae.ru,   144.206.66.58,  55.79770000,  37.46730000 
+ 10279,                                             Emory University,  11072,         node2.planetlab.mathcs.emory.edu,  170.140.119.70,  33.78950000, -84.32550000 
+ 10279,                                             Emory University,  11057,         node1.planetlab.mathcs.emory.edu,  170.140.119.69,  33.78950000, -84.32550000 
+ 11488,                                           Clemson University,  13652,                   planetlab2.clemson.edu,  130.127.39.153,  34.67540000, -82.83940000 
+ 11488,                                           Clemson University,  13654,                   planetlab1.clemson.edu,  130.127.39.152,  34.67540000, -82.83940000 
+   132, National Taiwan University, Department of Information Management,   3241,      planetlab1.ntu.nodes.planet-lab.org,  140.112.107.80,  23.50000000, 121.00000000 
+   132, National Taiwan University, Department of Information Management,   3242,      planetlab2.ntu.nodes.planet-lab.org,  140.112.107.82,  23.50000000, 121.00000000 
+ 11556,                                      Universidade do Algarve,  13867,                   planetlab1.fct.ualg.pt, 193.136.227.163,  37.01000000,  -7.96000000 
+ 11556,                                      Universidade do Algarve,  13877,                   planetlab2.fct.ualg.pt, 193.136.227.164,  37.01000000,  -7.96000000 
+ 11459,                  Jordan University of Science and Technology,  13464,                   planetlab1.just.edu.jo,  87.236.232.153,  32.49310000,  35.98750000 
+ 11459,                  Jordan University of Science and Technology,  13619,                  planetlab02.just.edu.jo,  87.236.232.174,  32.49310000,  35.98750000 
+ 11378,                            Waterford Institute of Technology,  13154,                   planetlabeu-1.tssg.org,    193.1.201.26,  52.24410000,  -7.15825000 
+ 11378,                            Waterford Institute of Technology,  13155,                   planetlabeu-2.tssg.org,    193.1.201.27,  52.24410000,  -7.15825000 
+ 11555,                               Technische Universitat Dresden,  13809,                planet1.inf.tu-dresden.de,    141.76.45.17,  51.02600000,  13.72500000 
+ 11555,                               Technische Universitat Dresden,  13811,                planet2.inf.tu-dresden.de,    141.76.45.18,  51.02600000,  13.72500000 
+    93,                                          Tsinghua University,  13666,                         pl2.6test.edu.cn,  219.243.208.62,  40.00000000, 116.32700000 
+    93,                                          Tsinghua University,  13664,                         pl1.6test.edu.cn,  219.243.208.60,  40.00000000, 116.32700000 
+ 11541,                                   Tennessee State University,  13786,                    planetlab1.tsuniv.edu,   206.23.240.28,  36.16590000, -86.83130000 
+ 11541,                                   Tennessee State University,  13792,                    planetlab2.tsuniv.edu,   206.23.240.29,  36.16590000, -86.83130000 
+ 11554,                            University of Innsbruck, Austria.,  13793,                    plab1-c703.uibk.ac.at,  138.232.66.173,  47.26410000,  11.38440000 
+ 11554,                            University of Innsbruck, Austria.,  13795,                    plab2-c703.uibk.ac.at,  138.232.66.174,  47.26410000,  11.38440000 
+ 11457,                                 Shanghai Jiaotong University,  13458,                  planetlab-1.sjtu.edu.cn,   202.112.28.98,  31.19920000, 121.43000000 
+ 11457,                                 Shanghai Jiaotong University,  13459,                  planetlab-2.sjtu.edu.cn,  202.112.28.100,  31.19920000, 121.43000000 
+ 11349,                       Warsaw University of Technology Europe,  13251,                       ple1.ise.pw.edu.pl,  194.29.150.131,  52.22070000,  21.01040000 
+ 11349,                       Warsaw University of Technology Europe,  13252,                       ple2.ise.pw.edu.pl,  194.29.150.132,  52.22070000,  21.01040000 
+ 11349,                       Warsaw University of Technology Europe,  13330,                     napa1.tele.pw.edu.pl,  194.29.150.137,  52.22070000,  21.01040000 
+ 11349,                       Warsaw University of Technology Europe,  13331,                     napa2.tele.pw.edu.pl,  194.29.150.138,  52.22070000,  21.01040000 
+ 11349,                       Warsaw University of Technology Europe,  13328,                     napa3.tele.pw.edu.pl,  194.29.150.139,  52.22070000,  21.01040000 
+ 11349,                       Warsaw University of Technology Europe,  13329,                     napa4.tele.pw.edu.pl,  194.29.150.140,  52.22070000,  21.01040000 
+ 11577,                                       University of Ioannina,  13863,                     planetlab2.cs.uoi.gr, 195.130.121.205,  39.61820000,  20.83860000 
+ 11577,                                       University of Ioannina,  13844,                     planetlab1.cs.uoi.gr, 195.130.121.204,  39.61820000,  20.83860000 
+ 11415,                                   University of Nevada, Reno,  13352,               planetlab2.scsr.nevada.edu,  207.197.40.251,  39.53990000, -119.81300000 
+ 11415,                                   University of Nevada, Reno,  13351,               planetlab1.scsr.nevada.edu,  207.197.40.250,  39.53990000, -119.81300000 
+ 10151,                CESNET - Czech Education and Research Network,  10524,                     planetlab1.cesnet.cz,  195.113.161.82,  50.10000000,  14.40000000 
+ 10151,                CESNET - Czech Education and Research Network,  10692,                  planetlab1.fit.vutbr.cz,  147.229.10.250,  50.10000000,  14.40000000 
+ 10151,                CESNET - Czech Education and Research Network,  10527,                     planetlab2.cesnet.cz,  195.113.161.83,  50.10000000,  14.40000000 
+ 11505,                                 CCTC / Universidade do Minho,  13681,              planetlab-um00.di.uminho.pt,   193.136.19.13,  41.56150000,  -8.39722000 
+ 11505,                                 CCTC / Universidade do Minho,  13682,              planetlab-um10.di.uminho.pt,   193.136.19.29,  41.56150000,  -8.39722000 
+ 11413,                    Centre for Research and Technology Hellas,  13368,                         iason.inf.uth.gr,   83.212.32.131,  37.90000000,  23.70000000 
+ 11413,                    Centre for Research and Technology Hellas,  13369,                         medea.inf.uth.gr,   83.212.32.133,  37.90000000,  23.70000000 
+ 10141,                                      Kansas State University,  11106,                       plab3.eece.ksu.edu, 129.130.252.140,  39.19000000, -96.59000000 
+ 10141,                                      Kansas State University,  11101,                       plab4.eece.ksu.edu, 129.130.252.141,  39.19000000, -96.59000000 
+ 10193,                                     Arizona State University,  10710,                   planetlab2.eas.asu.edu, 149.169.227.131,  33.42860000, -111.91500000 
+ 10193,                                     Arizona State University,  10711,                   planetlab1.eas.asu.edu, 149.169.227.129,  33.42860000, -111.91500000 
+   137,                              North Carolina State University,  13488,                    planet12.csc.ncsu.edu,   152.14.93.139,  35.76670000, -78.63330000 
+   137,                              North Carolina State University,  13486,                    planet11.csc.ncsu.edu,   152.14.93.140,  35.76670000, -78.63330000 
+    78,                                           Rutgers University,  10203,                   planetlab2.rutgers.edu,  165.230.49.115,  40.48960000, -74.40820000 
+    78,                                           Rutgers University,  10236,                   planetlab1.rutgers.edu,  165.230.49.114,  40.48960000, -74.40820000 
+    78,                                           Rutgers University,  13668,                   planetlab4.rutgers.edu,  165.230.49.119,  40.48960000, -74.40820000 
+    78,                                           Rutgers University,  13667,                   planetlab3.rutgers.edu,  165.230.49.118,  40.48960000, -74.40820000 
+    83,                     University of Washington - Accretive DSL,    170,   uw1.accretive-dsl.nodes.planet-lab.org,     207.178.4.6,  47.65310000, -122.31300000 
+ 11510,                                               AUT University,  13738,                     planetlab1.aut.ac.nz,  156.62.231.242, -36.85380000, 174.76600000 
+ 11510,                                               AUT University,  13739,                     planetlab2.aut.ac.nz,  156.62.231.244, -36.85380000, 174.76600000 
+ 11547,       Forschungsgemeinschaft elektronische Medien e.V. (FeM),  13873,             planetlab1.fem.tu-ilmenau.de,  141.24.249.129,  50.68090000,  10.93450000 
+ 11547,       Forschungsgemeinschaft elektronische Medien e.V. (FeM),  13874,             planetlab2.fem.tu-ilmenau.de,  141.24.249.130,  50.68090000,  10.93450000 
+ 11489,                            Victoria University of Wellington,  13624,                 planetlab2.ecs.vuw.ac.nz,    130.195.4.69, -41.29020000, 174.76800000 
+ 11489,                            Victoria University of Wellington,  13623,                 planetlab1.ecs.vuw.ac.nz,    130.195.4.68, -41.29020000, 174.76800000 
+ 11575,                                         University of Passau,  13808, dschinni.planetlab.extranet.uni-passau.de,   195.37.16.125,  48.58000000,  13.47000000 
+ 11575,                                         University of Passau,  13810, aladdin.planetlab.extranet.uni-passau.de,   195.37.16.121,  48.58000000,  13.47000000 
+    56,                           Northwestern University (Illinois),   8226,         planetlab2.eecs.northwestern.edu,   129.105.15.37,  42.05000000, -87.69000000 
+    56,                           Northwestern University (Illinois),  11048,         planetlab3.eecs.northwestern.edu,   129.105.15.38,  42.05000000, -87.69000000 
+    56,                           Northwestern University (Illinois),   8224,         planetlab1.eecs.northwestern.edu,   129.105.15.36,  42.05000000, -87.69000000 
+ 11587,                                        Politecnico di Torino,  13839,                     planetlab1.polito.it,   130.192.9.230,  45.07000000,   7.67000000 
+ 11587,                                        Politecnico di Torino,  13830,                     planetlab2.polito.it,   130.192.9.231,  45.07000000,   7.67000000 
+ 11580,                                      Imperial College London,  13878,               planetlab-2.imperial.ac.uk,    193.63.75.19,  51.10000000,  -0.10000000 
+ 11580,                                      Imperial College London,  13879,               planetlab-4.imperial.ac.uk,    193.63.75.21,  51.10000000,  -0.10000000 
+ 11580,                                      Imperial College London,  13846,               planetlab-3.imperial.ac.uk,    193.63.75.20,  51.10000000,  -0.10000000 
+ 11580,                                      Imperial College London,  13845,               planetlab-1.imperial.ac.uk,    193.63.75.18,  51.10000000,  -0.10000000 
+ 11467,                        Stanford University OpenFlow Projects,  13762,                  of-planet5.stanford.edu,     171.67.75.7,  37.42940000, -122.17200000 
+ 10229,                        Space Monitoring Data Center SINP MSU,  10792,                       plab-1.sinp.msu.ru,   213.131.1.101,  55.69550000,  37.53470000 
+ 10229,                        Space Monitoring Data Center SINP MSU,  10793,                       plab-2.sinp.msu.ru,   213.131.1.102,  55.69550000,  37.53470000 
+ 11387,                           Instituto Tecnologico Buenos Aires,  13134,                  planet-lab1.itba.edu.ar, 190.227.163.142, -34.60390000, -58.36790000 
+ 11387,                           Instituto Tecnologico Buenos Aires,  13158,                  planet-lab2.itba.edu.ar, 190.227.163.141, -34.60390000, -58.36790000 
+ 11583,                                      University of Neuchatel,  13859,               planetlab1.unineuchatel.ch,    192.42.43.22,  46.59000000,   6.56000000 
+ 11583,                                      University of Neuchatel,  13860,               planetlab2.unineuchatel.ch,    192.42.43.23,  46.59000000,   6.56000000 
+    76,                                      University of Rochester,   3395,                 planet1.cs.rochester.edu,  128.151.65.101,  43.08000000, -77.63000000 
+    76,                                      University of Rochester,  13758,                 planet2.cs.rochester.edu,  128.151.65.102,  43.08000000, -77.63000000 
+ 11581,            Friedrich-Alexander University Erlangen-Nuremberg,  13799,    planetlab3.informatik.uni-erlangen.de,  131.188.44.102,  49.36000000,  11.00000000 
+ 11581,            Friedrich-Alexander University Erlangen-Nuremberg,  13801,    planetlab1.informatik.uni-erlangen.de,  131.188.44.100,  49.36000000,  11.00000000 
+ 11585,                        Swedish Institute of Computer Science,  13880,                       planetlab1.sics.se,    193.10.64.35,  59.33330000,  18.05000000 
+ 11585,                        Swedish Institute of Computer Science,  13888,                       planetlab2.sics.se,    193.10.64.36,  59.33330000,  18.05000000 
+     9,                                   University of Pennsylvania,     84,                 planetlab1.cis.upenn.edu,   158.130.6.254,  39.95170000, -75.19040000 
+     9,                                   University of Pennsylvania,     85,                 planetlab2.cis.upenn.edu,   158.130.6.253,  39.95170000, -75.19040000 
+ 11586, Inst. of Computer Science, Foundation for Research and Technology - Hellas,  13893,                  planetlab1.ics.forth.gr,   139.91.90.238,  35.17000000,  25.00000000 
+ 11586, Inst. of Computer Science, Foundation for Research and Technology - Hellas,  13894,                  planetlab2.ics.forth.gr,   139.91.90.239,  35.17000000,  25.00000000 
+ 11584,                                 University of Duisburg-Essen,  13905,         planetlab1.exp-math.uni-essen.de, 132.252.152.193,  51.25000000,   6.46000000 
+ 11584,                                 University of Duisburg-Essen,  13906,         planetlab2.exp-math.uni-essen.de, 132.252.152.194,  51.25000000,   6.46000000 
+ 11588,                        Dipartimento di Informatica di Torino,  13803,                   planetlab1.di.unito.it, 130.192.157.131,  45.07000000,   7.67000000 
+ 11588,                        Dipartimento di Informatica di Torino,  13804,                   planetlab2.di.unito.it, 130.192.157.132,  45.07000000,   7.67000000 
+ 11588,                        Dipartimento di Informatica di Torino,  13806,                   planetlab3.di.unito.it, 130.192.157.138,  45.07000000,   7.67000000 
+   126,                                 PlanetLab Colo - Santa Clara,   3211,    planetlab-1.sjce.nodes.planet-lab.org,  208.185.40.196,  37.33000000, -121.89000000 
+   126,                                 PlanetLab Colo - Santa Clara,   3212,    planetlab-2.sjce.nodes.planet-lab.org,  208.185.40.197,  37.33000000, -121.89000000 
+   126,                                 PlanetLab Colo - Santa Clara,   3213,    planetlab-3.sjce.nodes.planet-lab.org,  208.185.40.198,  37.33000000, -121.89000000 
+ 11546,                                    University College Dublin,  13891,                 planetlab-node-01.ucd.ie,   193.1.170.135,  53.30920000,  -6.22169000 
+ 11546,                                    University College Dublin,  13895,                 planetlab-node-02.ucd.ie,   193.1.170.136,  53.30920000,  -6.22169000 
+ 11579,                                 Universitat Rovira i Virgili,  13842,                       planetlab2.urv.cat,  193.144.21.131,  41.07000000,   1.15000000 
+ 11579,                                 Universitat Rovira i Virgili,  13843,                       planetlab1.urv.cat,  193.144.21.130,  41.07000000,   1.15000000 
+ 11517,       National NetWork New Media Engineering Research Center,  13734,                        planet1.dsp.ac.cn,   210.75.225.60,  39.92000000, 116.46000000 
+ 11517,       National NetWork New Media Engineering Research Center,  13735,                        planet2.dsp.ac.cn,   210.75.225.62,  39.92000000, 116.46000000 
+ 11414,                                   Alcatel-Lucent Villarceaux,  13451,                     pl1-alblf.homeip.net, 159.217.144.110,  48.66820000,   2.24050000 
+ 11414,                                   Alcatel-Lucent Villarceaux,  13452,                     pl2-alblf.homeip.net, 159.217.144.112,  48.66820000,   2.24050000 
+ 10217,                               PlanetLab Colo - CLARA Tijuana,  10763,      planetlab1-tijuana.lan.redclara.net,    200.0.206.12,   1.00000000,   1.00000000 
+ 10217,                               PlanetLab Colo - CLARA Tijuana,  10764,      planetlab2-tijuana.lan.redclara.net,    200.0.206.13,   1.00000000,   1.00000000 
+ 11591,                                     University of St Andrews,  13953,           planetlab3.cs.st-andrews.ac.uk,  138.251.214.77,  56.25000000,  -3.03000000 
+ 11591,                                     University of St Andrews,  13954,           planetlab4.cs.st-andrews.ac.uk,  138.251.214.78,  56.25000000,  -3.03000000 
+ 11446,                        The Koszalin University of Technology,  13461,                      ple2.tu.koszalin.pl,   62.108.171.76,  54.20470000,  16.19720000 
+ 11446,                        The Koszalin University of Technology,  13460,                      ple1.tu.koszalin.pl,   62.108.171.74,  54.20470000,  16.19720000 
+ 11355,                         Universitat Politecnica de Catalunya,  13066,                        planetlab1.upc.es,   147.83.30.166,  41.38970000,   2.11273000 
+ 11355,                         Universitat Politecnica de Catalunya,  13068,                        planetlab3.upc.es,   147.83.30.164,  41.38970000,   2.11273000 
+ 11355,                         Universitat Politecnica de Catalunya,  13067,                        planetlab2.upc.es,   147.83.30.167,  41.38970000,   2.11273000 
+ 11372,                                           Universita di Pisa,  13532,                     onelab6.iet.unipi.it,  131.114.59.242,  43.72070000,  10.38520000 
+ 11372,                                           Universita di Pisa,  13570,                     onelab7.iet.unipi.it,  131.114.59.243,  43.72070000,  10.38520000 
+ 11419,                                                    Quantavis,  13381,                       marie.iet.unipi.it,  131.114.53.188,  43.50520000,  10.32520000 
+ 11419,                                                    Quantavis,  13288,                      pierre.iet.unipi.it,  131.114.53.187,  43.50520000,  10.32520000 
+     4,                                       University of Kentucky,     74,                planetlab2.netlab.uky.edu,  128.163.142.21,  38.04010000, -84.50540000 
+     4,                                       University of Kentucky,     73,                planetlab1.netlab.uky.edu,  128.163.142.20,  38.04010000, -84.50540000 
+ 10050,    Iowa State University Electrical and Computer Engineering,  11494,              planetlab-6.ece.iastate.edu,  129.186.205.78,  42.02000000, -93.37000000 
+ 10050,    Iowa State University Electrical and Computer Engineering,  10125,              planetlab-1.ece.iastate.edu,  129.186.205.73,  42.02000000, -93.37000000 
+ 10050,    Iowa State University Electrical and Computer Engineering,  10126,              planetlab-2.ece.iastate.edu,  129.186.205.71,  42.02000000, -93.37000000 
+ 10050,    Iowa State University Electrical and Computer Engineering,  10165,              planetlab-4.ece.iastate.edu,  129.186.205.77,  42.02000000, -93.37000000 
+ 10050,    Iowa State University Electrical and Computer Engineering,  10163,              planetlab-3.ece.iastate.edu,  129.186.205.76,  42.02000000, -93.37000000 
+ 10050,    Iowa State University Electrical and Computer Engineering,  11514,              planetlab-5.ece.iastate.edu,  129.186.205.79,  42.02000000, -93.37000000 
+ 11511,                                            Ionian Univeristy,  13902,                      planetlab1.ionio.gr,   195.130.124.1,  39.62050000,  19.91480000 
+ 11511,                                            Ionian Univeristy,  13903,                      planetlab2.ionio.gr,   195.130.124.2,  39.62050000,  19.91480000 
+ 11443,                                             ACC CYFRONET AGH,  13522,                   planetlab1.cyfronet.pl,   149.156.5.114,  50.06960000,  19.91000000 
+ 11443,                                             ACC CYFRONET AGH,  13523,                   planetlab2.cyfronet.pl,   149.156.5.116,  50.06960000,  19.91000000 
+ 11377,                              Troyes University of Technology,  13143,                        planetlab2.utt.fr,  194.254.215.12,  48.26930000,   4.06739000 
+ 11377,                              Troyes University of Technology,  13144,                        planetlab1.utt.fr,  194.254.215.11,  48.26930000,   4.06739000 
+ 11382,                        Laboratoire dInformatique de Grenoble,  13173,                      planetlab-1.imag.fr,   129.88.70.226,  45.21740000,   5.80872000 
+ 11382,                        Laboratoire dInformatique de Grenoble,  13174,                      planetlab-2.imag.fr,   129.88.70.227,  45.21740000,   5.80872000 
+ 11354, University of Catania - Computer Science and Telecommunications Engineering,  13101,                 gschembra3.diit.unict.it,    151.97.9.224,  37.52580000,  15.07490000 
+ 11354, University of Catania - Computer Science and Telecommunications Engineering,  13112,                 gschembra4.diit.unict.it,    151.97.9.225,  37.52580000,  15.07490000 
+ 11421,                                        Alcatel Lucent Italia,  13433, host147-82-static.93-94-b.business.telecomitalia.it,    94.93.82.147,  40.60800000,  14.95070000 
+ 11421,                                        Alcatel Lucent Italia,  13446, host149-82-static.93-94-b.business.telecomitalia.it,    94.93.82.149,  40.60800000,  14.95070000 
+ 11509,                                      Aalto University Comnet,  13940,       planetlab-2.research.netlab.hut.fi,  195.148.124.74,  60.19000000,  24.93000000 
+ 11509,                                      Aalto University Comnet,  13939,       planetlab-1.research.netlab.hut.fi,  195.148.124.73,  60.19000000,  24.93000000 
+ 11417,                             University of Basel, Switzerland,  13213,                 planetlab-1.cs.unibas.ch,   192.43.193.71,  47.55000000,   7.60000000 
+ 11417,                             University of Basel, Switzerland,  13214,                 planetlab-2.cs.unibas.ch,   192.43.193.72,  47.55000000,   7.60000000 
+ 11346,                                           Orange Labs Warsaw,  13111,              planetlab2.wroclaw.rd.tp.pl,   195.116.60.98,  52.17620000,  21.00120000 
+ 11346,                                           Orange Labs Warsaw,  13104,                  onelab3.warsaw.rd.tp.pl,   195.116.53.23,  52.17620000,  21.00120000 
+ 11381,                             Telecom and Management Sud Paris,  13187,           planetlab-node1.it-sudparis.eu,  157.159.226.72,  48.00000000,   2.00000000 
+ 11381,                             Telecom and Management Sud Paris,  13311,           planetlab-node3.it-sudparis.eu,  157.159.226.74,  48.00000000,   2.00000000 
+ 11622,                                          Carleton University,  13961,            jupiter.planetlab.carleton.ca, 134.117.226.181,  45.38470000, -75.69820000 
+ 11622,                                          Carleton University,  13946,             saturn.planetlab.carleton.ca, 134.117.226.180,  45.38470000, -75.69820000 
+ 11462,                       University of Modena and Reggio Emilia,  13492,                 planetlab-2.ing.unimo.it,  155.185.55.186,  44.62180000,  10.96370000 
+ 11462,                       University of Modena and Reggio Emilia,  13491,                 planetlab-1.ing.unimo.it,  155.185.55.185,  44.62180000,  10.96370000 
+ 11481,                                                       ESPRIT,  13740,                 planetlab1.esprit-tn.com,      41.225.7.3,  36.00000000,  10.00000000 
+ 11481,                                                       ESPRIT,  13741,                 planetlab2.esprit-tn.com,      41.225.7.4,  36.00000000,  10.00000000 
+ 11500,                 Netgroup at University of Rome "Tor Vergata",  13653,    planet-lab-node1.netgroup.uniroma2.it,   160.80.221.37,  41.85560000,  12.62430000 
+ 11500,                 Netgroup at University of Rome "Tor Vergata",  13658,    planet-lab-node2.netgroup.uniroma2.it,   160.80.221.39,  41.85560000,  12.62430000 
+ 11351,                                Universidad Carlos III Madrid,  13730,                       planetlab1.uc3m.es,  163.117.253.22,  40.35450000,  -3.74463000 
+ 11351,                                Universidad Carlos III Madrid,  13731,                       planetlab2.uc3m.es,  163.117.253.23,  40.35450000,  -3.74463000 
+ 11456,                         Athens Univ. of Economics & Business,  13551,                    planetlab1.cs.aueb.gr, 195.251.248.180,  37.99660000,  23.73990000 
+ 11456,                         Athens Univ. of Economics & Business,  13552,                    planetlab2.cs.aueb.gr, 195.251.248.181,  37.99660000,  23.73990000 
+ 11344,                             Universite Pierre et Marie Curie,  13528,           planetlab-wifi-01.ipv6.lip6.fr,   132.227.62.20,  48.85250000,   2.27849000 
+ 11344,                             Universite Pierre et Marie Curie,  14025,         planetlab-europe-06.ipv6.lip6.fr,   132.227.62.24,  48.85250000,   2.27849000 
+ 11344,                             Universite Pierre et Marie Curie,  13299,         planetlab-europe-07.ipv6.lip6.fr,   132.227.62.25,  48.85250000,   2.27849000 
+ 11344,                             Universite Pierre et Marie Curie,  13590,         planetlab-europe-02.ipv6.lip6.fr,   132.227.62.19,  48.85250000,   2.27849000 
+ 11479,                        Petru Maior University of Targu Mures,  13560,                        planetlab1.upm.ro,   193.226.19.30,  46.54700000,  24.56600000 
+ 11479,                        Petru Maior University of Targu Mures,  13561,                        planetlab2.upm.ro,   193.226.19.31,  46.54700000,  24.56600000 
+ 11482,                              FUNDP - The University of Namur,  13630,               chimay.infonet.fundp.ac.be,    138.48.3.201,  50.46700000,   4.86700000 
+ 11482,                              FUNDP - The University of Namur,  13631,                orval.infonet.fundp.ac.be,    138.48.3.202,  50.46700000,   4.86700000 
+ 11482,                              FUNDP - The University of Namur,  13632,            rochefort.infonet.fundp.ac.be,    138.48.3.203,  50.46700000,   4.86700000 
+ 11350,                       France Telecom R&D Lannion - PL Europe,  13094,           planetlab1lannion.elibel.tm.fr,  161.106.240.18,  48.73190000,  -3.45842000 
+ 11350,                       France Telecom R&D Lannion - PL Europe,  13095,           planetlab2lannion.elibel.tm.fr,  161.106.240.19,  48.73190000,  -3.45842000 
+ 11485,                             Tampere University of Technology,  13616,                     planetlab1.rd.tut.fi,   193.166.167.4,  61.44900000,  23.85500000 
+ 11485,                             Tampere University of Technology,  13617,                     planetlab2.rd.tut.fi,   193.166.167.5,  61.44900000,  23.85500000 
+ 11380,                                          University of Essex,  13912,                       uoepl1.essex.ac.uk,  155.245.47.225,  51.87540000,   0.94413800 
+ 11380,                                          University of Essex,  13913,                       uoepl2.essex.ac.uk,  155.245.47.226,  51.87540000,   0.94413800 
+ 11348,                             Universite Catholique de Louvain,  13406,                   onelab3.info.ucl.ac.be,  130.104.72.213,  50.68330000,   4.61667000 
+ 11348,                             Universite Catholique de Louvain,  13085,                   onelab1.info.ucl.ac.be,  130.104.72.200,  50.68330000,   4.61667000 
+ 11348,                             Universite Catholique de Louvain,  13086,                   onelab2.info.ucl.ac.be,  130.104.72.201,  50.68330000,   4.61667000 
+ 11491,                                      University of Wuerzburg,  13604,   planetlab2.informatik.uni-wuerzburg.de,   132.187.230.2,  49.80000000,   9.93000000 
+ 11491,                                      University of Wuerzburg,  13605,   planetlab1.informatik.uni-wuerzburg.de,   132.187.230.1,  49.80000000,   9.93000000 
+ 11493,                               Technische Universitaet Berlin,  13656,             planetlab01.tkn.tu-berlin.de,  130.149.49.136,  52.50000000,  13.30000000 
+ 11493,                               Technische Universitaet Berlin,  13657,             planetlab02.tkn.tu-berlin.de,  130.149.49.137,  52.50000000,  13.30000000 
+   135,                                    Seoul National University,  13777,                          arari.snu.ac.kr,  147.46.240.166,  37.53000000, 127.00000000 
+   135,                                    Seoul National University,  13778,                         recall.snu.ac.kr,  147.46.240.165,  37.53000000, 127.00000000 
+ 11420,                                          University of Parma,  13291,                         planet1.unipr.it,   160.78.253.31,  44.80090000,  10.32550000 
+ 11420,                                          University of Parma,  13292,                         planet2.unipr.it,   160.78.253.32,  44.80090000,  10.32550000 
+ 11497,                                           Collegium Budapest,  13710,                         evghu4.colbud.hu,    193.6.20.134,  47.43000000,  19.25000000 
+ 11497,                                           Collegium Budapest,  13659,                        planet1.colbud.hu,      193.6.20.4,  47.43000000,  19.25000000 
+ 11497,                                           Collegium Budapest,  13660,                        planet2.colbud.hu,      193.6.20.5,  47.43000000,  19.25000000 
+ 11497,                                           Collegium Budapest,  13833,                        evghu12.colbud.hu,    193.6.20.142,  47.43000000,  19.25000000 
+ 11497,                                           Collegium Budapest,  13834,                        evghu13.colbud.hu,    193.6.20.143,  47.43000000,  19.25000000 
+ 11497,                                           Collegium Budapest,  13714,                         evghu8.colbud.hu,    193.6.20.138,  47.43000000,  19.25000000 
+ 11497,                                           Collegium Budapest,  13711,                         evghu5.colbud.hu,    193.6.20.135,  47.43000000,  19.25000000 
+ 11497,                                           Collegium Budapest,  13712,                         evghu6.colbud.hu,    193.6.20.136,  47.43000000,  19.25000000 
+ 11497,                                           Collegium Budapest,  13713,                         evghu7.colbud.hu,    193.6.20.137,  47.43000000,  19.25000000 
+ 11497,                                           Collegium Budapest,  13816,                         evghu1.colbud.hu,    193.6.20.131,  47.43000000,  19.25000000 
+ 11497,                                           Collegium Budapest,  13836,                         evghu2.colbud.hu,    193.6.20.132,  47.43000000,  19.25000000 
+ 11497,                                           Collegium Budapest,  13837,                         evghu9.colbud.hu,    193.6.20.139,  47.43000000,  19.25000000 
+ 11497,                                           Collegium Budapest,  13835,                        evghu10.colbud.hu,    193.6.20.140,  47.43000000,  19.25000000 
+ 11497,                                           Collegium Budapest,  13823,                        evghu11.colbud.hu,    193.6.20.141,  47.43000000,  19.25000000 
+ 11497,                                           Collegium Budapest,  13838,                        evghu14.colbud.hu,    193.6.20.144,  47.43000000,  19.25000000 
+ 11501,                                                        IRISA,  13648,                       peeramide.irisa.fr,  131.254.208.10,  48.11550000,  -1.65071000 
+ 11501,                                                        IRISA,  13649,                     peeramidion.irisa.fr,  131.254.208.11,  48.11550000,  -1.65071000 
+ 11501,                                                        IRISA,  13662,                    inriarennes1.irisa.fr,  131.254.208.12,  48.11550000,  -1.65071000 
+ 11501,                                                        IRISA,  13663,                    inriarennes2.irisa.fr,  131.254.208.13,  48.11550000,  -1.65071000 
+ 11407,                                                         IBBT,  13337,                planck228ple.test.ibbt.be, 193.191.148.228,  51.04000000,   3.74000000 
+ 11407,                                                         IBBT,  13341,                planck227ple.test.ibbt.be, 193.191.148.227,  51.04000000,   3.74000000 
+ 11502,                                         University of Vienna,  13669,                    ple02.fc.univie.ac.at,  131.130.69.164,  48.16000000,  16.24000000 
+ 11502,                                         University of Vienna,  13670,                    ple01.fc.univie.ac.at,  131.130.69.162,  48.16000000,  16.24000000 
+ 11455,                                          Universite de Liege,  13555,          planetlab1.montefiore.ulg.ac.be,  139.165.12.211,  50.58000000,   5.56000000 
+ 11455,                                          Universite de Liege,  13556,          planetlab2.montefiore.ulg.ac.be,  139.165.12.212,  50.58000000,   5.56000000 
+ 11352,                                                   delab-auth,  13207,                      planet1.itc.auth.gr,   155.207.48.21,  40.00000000,  22.00000000 
+ 11352,                                                   delab-auth,  13208,                      planet2.itc.auth.gr,   155.207.48.52,  40.00000000,  22.00000000 
+ 11431,                                         University of Athens,  13650,                            zoi.di.uoa.gr,  195.134.71.129,  37.96840000,  23.76690000 
+ 11431,                                         University of Athens,  13651,                         kostis.di.uoa.gr,  195.134.71.133,  37.96840000,  23.76690000 
+ 11359,                              Universitat Pompeu Fabra - NeTS,  13736,                     planetlabpc1.upf.edu,  193.145.46.129,  41.38490000,   2.18640000 
+ 11359,                              Universitat Pompeu Fabra - NeTS,  13737,                     planetlabpc2.upf.edu,  193.145.46.130,  41.38490000,   2.18640000 
+ 11366,                                 Escuela Politecnica Superior,  13153,                           utet.ii.uam.es,  150.244.58.161,  40.43630000,  -3.69413000 
+ 11366,                                 Escuela Politecnica Superior,  13159,                            ops.ii.uam.es,  150.244.58.159,  40.43630000,  -3.69413000 
+ 11371,                                              Telecom Lille 1,  13055,     node2pl.planet-lab.telecom-lille1.eu,  194.167.254.19,  50.61030000,   3.13525000 
+ 11371,                                              Telecom Lille 1,  13122,     node1pl.planet-lab.telecom-lille1.eu,  194.167.254.18,  50.61030000,   3.13525000 
+ 11367,                                        Thales Communications,  13530,            thalescom-48-41.cnt.nerim.net,   213.215.48.41,  48.93020000,   2.25483000 
+ 11367,                                        Thales Communications,  13531,            thalescom-48-42.cnt.nerim.net,   213.215.48.42,  48.93020000,   2.25483000 
+ 11422,                                                    IT-Aveiro,  13357,                    planet1.servers.ua.pt, 193.137.173.217,  40.64010000,  -8.65628000 
+ 11422,                                                    IT-Aveiro,  13222,                    planet2.servers.ua.pt, 193.137.173.218,  40.64010000,  -8.65628000 
+ 11388,                     CREATE-NET International Research Center,  13412,                     plab1.create-net.org,  193.206.22.133,  46.06710000,  11.15500000 
+ 11388,                     CREATE-NET International Research Center,  13419,                     plab2.create-net.org,  193.206.22.134,  46.06710000,  11.15500000 
+ 11356,                                      INRIA Nancy - Grand Est,  13090,                       host3-plb.loria.fr,     152.81.47.4,  48.66610000,   6.15775000 
+ 11356,                                      INRIA Nancy - Grand Est,  13081,                       host4-plb.loria.fr,     152.81.47.5,  48.66610000,   6.15775000 
+ 11364,                             Blekinge Institute of Technology,  13721,                      itchy.comlab.bth.se,  194.47.148.170,  56.18190000,  15.59110000 
+ 11364,                             Blekinge Institute of Technology,  13722,                   scratchy.comlab.bth.se,  194.47.148.172,  56.18190000,  15.59110000 
+ 11374,                                                          VTT,  13527,                     planetlab1.willab.fi,  193.166.160.98,  60.18260000,  24.82590000 
+ 11374,                                                          VTT,  13526,                     planetlab2.willab.fi,  193.166.160.99,  60.18260000,  24.82590000 
+ 11391,                                                      FCT/UNL,  13359,                 planetlab2.di.fct.unl.pt, 193.136.124.228,  38.67200000,  -9.18423000 
+ 11391,                                                      FCT/UNL,  13358,                 planetlab1.di.fct.unl.pt, 193.136.124.226,  38.67200000,  -9.18423000 
+ 11360, Fraunhofer FOKUS - Research Institute for Open Communication Systems,  13393,                    onelab-1.fhi-fokus.de,  193.174.155.35,  52.52580000,  13.31430000 
+ 11360, Fraunhofer FOKUS - Research Institute for Open Communication Systems,  13394,                    onelab-2.fhi-fokus.de,  193.174.155.36,  52.52580000,  13.31430000 
+ 11360, Fraunhofer FOKUS - Research Institute for Open Communication Systems,  13093,          planetlab-2.fokus.fraunhofer.de,  193.174.155.27,  52.52580000,  13.31430000 
+ 11360, Fraunhofer FOKUS - Research Institute for Open Communication Systems,  13092,          planetlab-1.fokus.fraunhofer.de,  193.174.155.26,  52.52580000,  13.31430000 
+ 11361,                             Universita degli Studi di Trento,  13080,              planetlab2.science.unitn.it,  193.205.215.75,  46.06600000,  11.15000000 
+ 11361,                             Universita degli Studi di Trento,  13079,              planetlab1.science.unitn.it,  193.205.215.74,  46.06600000,  11.15000000 
+ 11435,                     Czech Educational and Scientific Network,  13453,                           ple1.cesnet.cz,  195.113.161.13,  50.12870000,  14.39070000 
+ 11435,                     Czech Educational and Scientific Network,  13454,                           ple2.cesnet.cz,  195.113.161.14,  50.12870000,  14.39070000 
+ 11392,                     Silesian University of Technology, Insti,  13371,                      plab3.ple.silweb.pl,  83.230.127.123,  50.29010000,  18.67730000 
+ 11392,                     Silesian University of Technology, Insti,  13375,                      plab4.ple.silweb.pl,  83.230.127.124,  50.29010000,  18.67730000 
+ 11392,                     Silesian University of Technology, Insti,  13348,                      plab1.ple.silweb.pl,  83.230.127.121,  50.29010000,  18.67730000 
+ 11392,                     Silesian University of Technology, Insti,  13349,                      plab2.ple.silweb.pl,  83.230.127.122,  50.29010000,  18.67730000 
+ 11423,                                        University of Leipzig,  13564,     planetlab1.informatik.uni-leipzig.de,   139.18.38.190,  51.34100000,  12.38150000 
+ 11423,                                        University of Leipzig,  13569,     planetlab2.informatik.uni-leipzig.de,   139.18.38.191,  51.34100000,  12.38150000 
+    49,                                        University of Toronto,  10277,                      pl2.csl.utoronto.ca,  142.150.238.13,  43.00000000, -79.50000000 
+    49,                                        University of Toronto,  10278,                      pl1.csl.utoronto.ca,  142.150.238.12,  43.00000000, -79.50000000 
+ 11383,                                     Eotvos Lorand University,  13114,                          planet2.elte.hu, 157.181.175.248,  47.47440000,  19.06220000 
+ 11383,                                     Eotvos Lorand University,  13113,                          planet1.elte.hu, 157.181.175.249,  47.47440000,  19.06220000 
+ 11362,                                                  ETH Zuerich,  13370,                      planetlab01.ethz.ch,   192.33.90.195,  47.38330000,   8.53333000 
+ 11362,                                                  ETH Zuerich,  13097,                      planetlab02.ethz.ch,   192.33.90.196,  47.38330000,   8.53333000 
+ 11552,                                   Instituto Superior Tecnico,  13831,             planetlab-1.tagus.ist.utl.pt,  193.136.166.54,  38.73730000,  -9.30324000 
+ 11552,                                   Instituto Superior Tecnico,  13840,             planetlab-2.tagus.ist.utl.pt,  193.136.166.56,  38.73730000,  -9.30324000 
+ 11368,                       KTH, Royal Institute of Technology, EE,  13078,                     planetlab1.s3.kth.se,  130.237.50.124,  59.34950000,  18.06700000 
+ 11368,                       KTH, Royal Institute of Technology, EE,  13106,                     planetlab2.s3.kth.se,  130.237.50.125,  59.34950000,  18.06700000 
+ 11408,                              Universitat Oberta de Catalunya,  13265,                         dplanet1.uoc.edu,   213.73.40.105,  41.39090000,   2.16791000 
+ 11408,                              Universitat Oberta de Catalunya,  13264,                         dplanet2.uoc.edu,   213.73.40.106,  41.39090000,   2.16791000 
+ 11430,                                 Technical University of Lodz,  13557,                      ple1.dmcs.p.lodz.pl,  212.51.218.235,  51.74610000,  19.45560000 
+ 11430,                                 Technical University of Lodz,  13558,                      ple2.dmcs.p.lodz.pl,  212.51.218.237,  51.74610000,  19.45560000 
+ 11411,                                                 interlab-ait,  13355,                           ple1.ait.ac.th,   203.159.255.1,  14.14260000, 100.60400000 
+ 11411,                                                 interlab-ait,  13356,                           ple2.ait.ac.th,   203.159.255.2,  14.14260000, 100.60400000 
+ 11553,                                        Zuse Institute Berlin,  13798,                           planet1.zib.de,   130.73.142.87,  52.45450000,  13.29620000 
+ 11553,                                        Zuse Institute Berlin,  13797,                           planet2.zib.de,   130.73.142.88,  52.45450000,  13.29620000 
+   139,                             University of Nebraska - Lincoln,  11088,                       planetlab2.unl.edu,  129.93.229.139,  40.80000000, -96.66670000 
+   139,                             University of Nebraska - Lincoln,  11087,                       planetlab1.unl.edu,  129.93.229.138,  40.80000000, -96.66670000 
+ 10145,                                              Keio University,  10505,                planetlab1.sfc.wide.ad.jp,  203.178.143.10,  35.55460000, 140.05900000 
+ 10145,                                              Keio University,  10506,                planetlab2.sfc.wide.ad.jp,  203.178.143.28,  35.55460000, 140.05900000 
+ 11558,                                      University of Ljubljana,  13853,                 planetlab2.fri.uni-lj.si, 212.235.189.115,  46.03190000,  14.30520000 
+ 11558,                                      University of Ljubljana,  13856,                 planetlab1.fri.uni-lj.si, 212.235.189.114,  46.03190000,  14.30520000 
+ 10243,                                             Williams College,  10858,                  planetlab1.williams.edu,   137.165.1.111,  42.71000000, -73.20000000 
+ 10243,                                             Williams College,  11059,                  planetlab4.williams.edu,   137.165.1.114,  42.71000000, -73.20000000 
+ 10243,                                             Williams College,  11060,                  planetlab5.williams.edu,   137.165.1.115,  42.71000000, -73.20000000 
+ 10243,                                             Williams College,  10860,                  planetlab3.williams.edu,   137.165.1.113,  42.71000000, -73.20000000 
+ 10243,                                             Williams College,  10859,                  planetlab2.williams.edu,   137.165.1.112,  42.71000000, -73.20000000 
+ 11375,                                          Tel-Aviv University,  13380,                     planetlab2.tau.ac.il,     192.114.4.3,  32.11390000,  34.80420000 
+ 11375,                                          Tel-Aviv University,  13193,                     planetlab1.tau.ac.il,     192.114.4.2,  32.11390000,  34.80420000 
+ 11559, CSLab - Institute of Communication and Computer Systems of National Technical University of Athens,  13861,             planetlab3.cslab.ece.ntua.gr,   147.102.3.113,  38.00000000,  23.73000000 
+ 11559, CSLab - Institute of Communication and Computer Systems of National Technical University of Athens,  13862,             planetlab4.cslab.ece.ntua.gr,   147.102.3.117,  38.00000000,  23.73000000 
+   192,                                           BeiHang University,  13791,                   planetlab2.buaa.edu.cn,  202.112.128.11,  39.90000000, 116.50000000 
+   192,                                           BeiHang University,  13789,                   planetlab1.buaa.edu.cn,  202.112.128.10,  39.90000000, 116.50000000 
+ 11560,              Budapest University of Technology and Economics,  13976,                   planetlab2.tmit.bme.hu,  152.66.245.162,  49.90700000,  10.90500000 
+ 11560,              Budapest University of Technology and Economics,  13977,                   planetlab1.tmit.bme.hu,  152.66.245.161,  49.90700000,  10.90500000 
+ 11508,                                      University of Cambridge,  13674,             planetlab1.xeno.cl.cam.ac.uk, 128.232.103.201,  52.21120000,   0.09170000 
+ 11508,                                      University of Cambridge,  13769,             planetlab2.xeno.cl.cam.ac.uk, 128.232.103.202,  52.21120000,   0.09170000 
+ 11508,                                      University of Cambridge,  13770,             planetlab3.xeno.cl.cam.ac.uk, 128.232.103.203,  52.21120000,   0.09170000 
+ 10228,          Kamchatka State University named after Vitus Bering,  10864,                          pllab1.kamgu.ru,   85.28.222.242,  53.00000000, 158.38000000 
+ 10228,          Kamchatka State University named after Vitus Bering,  10865,                          pllab2.kamgu.ru,   85.28.222.243,  53.00000000, 158.38000000 
+ 11409,                                  Mobile Broadband NetworkLab,  13647,                    nw142.csie.ncu.edu.tw, 140.115.156.142,  24.96760000, 121.18800000 
+ 11409,                                  Mobile Broadband NetworkLab,  13518,                    nw144.csie.ncu.edu.tw, 140.115.156.144,  24.96760000, 121.18800000 
+ 10062,                 Centre for Development of Advanced Computing,  10207,                   planet2.cdacb.ernet.in, planet2.cdacb.ernet.in,  12.59000000,  77.35000000 
+ 10062,                 Centre for Development of Advanced Computing,  10183,                   planet1.cdacb.ernet.in, planet1.cdacb.ernet.in,  12.59000000,  77.35000000 
+    63,                                            Boston University,  10803,                      planetlab-01.bu.edu,   204.8.155.226,  42.35000000, -71.10000000 
+    63,                                            Boston University,  10815,                      planetlab-02.bu.edu,   204.8.155.227,  42.35000000, -71.10000000 
+ 11542,                         The Hong Kong Polytechnic University,  13942,                   pl01.comp.polyu.edu.hk,  202.125.215.10,  22.30400000, 114.18000000 
+ 11473,                                  Sapienza University of Rome,  13864,              planetlab-4.dis.uniroma1.it,    151.100.59.9,  41.89100000,  12.50370000 
+ 11473,                                  Sapienza University of Rome,  13802,              planetlab-3.dis.uniroma1.it,   151.100.59.13,  41.89100000,  12.50370000 
+ 11607,                    University of Colombo School of Computing,  13945,                planetlab1.ucsc.cmb.ac.lk,  192.248.16.112,   6.90222000,  79.86130000 
+ 11607,                    University of Colombo School of Computing,  13944,                planetlab0.ucsc.cmb.ac.lk,  192.248.16.111,   6.90222000,  79.86130000 
+ 11358,  Polish-Japanese Institute of Information Technology (PJIIT),  13057,                 planetlab2.pjwstk.edu.pl,  148.81.140.194,  52.22000000,  20.99000000 
+ 11358,  Polish-Japanese Institute of Information Technology (PJIIT),  13056,                 planetlab1.pjwstk.edu.pl,  148.81.140.193,  52.22000000,  20.99000000 
+ 11561,                                                  RWTH Aachen,  13827,          planetlab1.itsec.rwth-aachen.de, 137.226.138.155,  50.78000000,   6.05000000 
+ 11561,                                                  RWTH Aachen,  13828,          planetlab2.itsec.rwth-aachen.de, 137.226.138.157,  50.78000000,   6.05000000 
+ 10075,                     Nara Institute of Science and Technology,  10227,                    planetlab-02.naist.jp,   163.221.11.72,  34.41000000, 135.50000000 
+ 10075,                     Nara Institute of Science and Technology,  10313,                    planetlab-03.naist.jp,   163.221.11.73,  34.41000000, 135.50000000 
+ 10075,                     Nara Institute of Science and Technology,  10691,                    planetlab-04.naist.jp,   163.221.11.74,  34.41000000, 135.50000000 
+ 10075,                     Nara Institute of Science and Technology,  10226,                    planetlab-01.naist.jp,   163.221.11.71,  34.41000000, 135.50000000 
+ 10059,                                    University of Connecticut,  10157,                planetlab1.engr.uconn.edu,    137.99.11.86,  41.49000000, -72.15000000 
+ 10059,                                    University of Connecticut,  10353,                planetlab2.engr.uconn.edu,    137.99.11.87,  41.49000000, -72.15000000 
+ 11390,  Doshisha University, Network Information Systems Laboratory,  13146,               nis-planet2.doshisha.ac.jp,   202.23.159.52,  34.79950000, 135.76800000 
+ 11390,  Doshisha University, Network Information Systems Laboratory,  13145,               nis-planet1.doshisha.ac.jp,   202.23.159.51,  34.79950000, 135.76800000 
+   162,                                        University of Georgia,   3389,                         itchy.cs.uga.edu, 128.192.101.217,  33.98000000, -83.36000000 
+   162,                                        University of Georgia,   3390,                      scratchy.cs.uga.edu, 128.192.101.218,  33.98000000, -83.36000000 
+ 10185,                                            Waseda University,  13360,        planetlab6.goto.info.waseda.ac.jp,    133.9.81.166,  35.42000000, 139.42000000 
+ 10185,                                            Waseda University,  13286,        planetlab5.goto.info.waseda.ac.jp,    133.9.81.165,  35.42000000, 139.42000000 
+ 10185,                                            Waseda University,  13215,        planetlab4.goto.info.waseda.ac.jp,    133.9.81.164,  35.42000000, 139.42000000 
+ 10077,                        Telekomunikacja Polska R&D at Olsztyn,  10238,              planetlab2.olsztyn.rd.tp.pl,   195.116.60.34,  53.86000000,  20.59000000 
+   106, Institute for Applied Supercomputing, California State University San Bernardino,    365,                 planetlab1.ias.csusb.edu, 139.182.137.141,  34.00120000, -117.00300000 
+   106, Institute for Applied Supercomputing, California State University San Bernardino,    364,                 planetlab0.ias.csusb.edu, 139.182.137.140,  34.00120000, -117.00300000 
+ 10126,                             University of California, Irvine,  10444,                 planetlab-1a.ics.uci.edu,  128.195.54.161,  33.67000000, -117.81000000 
+ 10126,                             University of California, Irvine,  10445,                 planetlab-2a.ics.uci.edu,  128.195.54.163,  33.67000000, -117.81000000 
+ 10126,                             University of California, Irvine,  13521,                  planetlab-3.ics.uci.edu,  128.195.54.212,  33.67000000, -117.81000000 
+ 10172, Centro Nacional de Calculo Cientifico Universidad de Los Andes,  10632,                      fobos.cecalc.ula.ve,   150.189.2.101,   8.60000000, -71.18330000 
+ 10172, Centro Nacional de Calculo Cientifico Universidad de Los Andes,  10652,                     deimos.cecalc.ula.ve,   150.189.2.102,   8.60000000, -71.18330000 
+ 11549,                                                  HAW Hamburg,  13784,            mars.planetlab.haw-hamburg.de,   141.22.213.35,  53.56860000,  10.03860000 
+ 11549,                                                  HAW Hamburg,  13785,          merkur.planetlab.haw-hamburg.de,   141.22.213.34,  53.56860000,  10.03860000 
+ 10244,                                              SUNY Binghamton,  13276,                 charon.cs.binghamton.edu,  128.226.103.67,  42.08800000, -75.96870000 
+ 10244,                                              SUNY Binghamton,  13275,                  pluto.cs.binghamton.edu,  128.226.103.66,  42.08800000, -75.96870000 
+ 11564,                                                 IT/ISCTE-IUL,  13800,                     planetlab-1.iscte.pt,  193.136.191.25,  38.43000000,  -9.08000000 
+ 11564,                                                 IT/ISCTE-IUL,  13805,                     planetlab-2.iscte.pt,  193.136.191.26,  38.43000000,  -9.08000000 
+ 11562,                                     University of Goettingen,  13935,  planetlab1.informatik.uni-goettingen.de,  134.76.249.229,  51.36220000,   9.55996000 
+ 11562,                                     University of Goettingen,  13941,  planetlab2.informatik.uni-goettingen.de,  134.76.249.230,  51.36220000,   9.55996000 
+ 11574,                             Wroclaw University of Technology,  13865,                planetlab1.ci.pwr.wroc.pl,    156.17.10.51,  51.10000000,  16.93000000 
+ 11574,                             Wroclaw University of Technology,  13866,                planetlab2.ci.pwr.wroc.pl,    156.17.10.52,  51.10000000,  16.93000000 
+     8,                        Lawrence Berkeley National Laboratory,   8160,          node2.lbnl.nodes.planet-lab.org,   198.128.56.12,  37.87020000, -122.26800000 
+     8,                        Lawrence Berkeley National Laboratory,   8159,          node1.lbnl.nodes.planet-lab.org,   198.128.56.11,  37.87020000, -122.26800000 
+ 11522,                                             ESPOL University,  13759,                 prueba1.cti.espol.edu.ec,  200.10.150.252,  -2.15000000, -79.96000000 
+ 11522,                                             ESPOL University,  13773,                 prueba2.cti.espol.edu.ec,  200.10.150.253,  -2.15000000, -79.96000000 
+ 11567,                                        University of Sevilla,  14023,                              ait21.us.es, 193.147.162.182,  37.42000000,  -5.90000000 
+ 11567,                                        University of Sevilla,  14006,                              ait05.us.es, 193.147.162.166,  37.42000000,  -5.90000000 
+ 11570,                                       Trinity College Dublin,  13990,                    planetlab01.cs.tcd.ie,   134.226.52.34,  53.24000000,  -6.24000000 
+ 11570,                                       Trinity College Dublin,  13991,                    planetlab02.cs.tcd.ie,   134.226.52.35,  53.24000000,  -6.24000000 
+    61,                                     Academia Sinica - Taiwan,    151,             planetlab2.iis.sinica.edu.tw,  140.109.17.181,  25.02000000, 121.37000000 
+    61,                                     Academia Sinica - Taiwan,    150,             planetlab1.iis.sinica.edu.tw,  140.109.17.180,  25.02000000, 121.37000000 
+ 10121, Fraunhofer-Institute for Telecommunications - Heinrich-Hertz-Institut,  10475,               planet02.hhi.fraunhofer.de,  193.174.67.187,  52.52000000,  13.32000000 
+ 10121, Fraunhofer-Institute for Telecommunications - Heinrich-Hertz-Institut,  10474,               planet01.hhi.fraunhofer.de,  193.174.67.186,  52.52000000,  13.32000000 
+ 10003,              City College of the City University of New York,  10006,            planetlab1.engr.ccny.cuny.edu,    134.74.248.5,  40.43000000, -74.00000000 
+ 10003,              City College of the City University of New York,  10024,            planetlab2.engr.ccny.cuny.edu,    134.74.248.6,  40.43000000, -74.00000000 
+ 11566,                                         University of Cyprus,  13974,                 planetlab-1.cs.ucy.ac.cy,   194.42.17.123,  35.15000000,  33.36000000 
+ 11566,                                         University of Cyprus,  13943,                 planetlab-2.cs.ucy.ac.cy,   194.42.17.124,  35.15000000,  33.36000000 
+ 11566,                                         University of Cyprus,  14036,                 planetlab-3.cs.ucy.ac.cy,   194.42.17.121,  35.15000000,  33.36000000 
+   105,                                            McGill University,  13124,               node-2.mcgillplanetlab.org, node-2.mcgillplanetlab.org,  45.00520000, -73.00570000 
+   105,                                            McGill University,  13123,               node-1.mcgillplanetlab.org, node-1.mcgillplanetlab.org,  45.00520000, -73.00570000 
+ 11568,                                         University of Lisbon,  13914,                  planetlab-1.di.fc.ul.pt,  194.117.20.214,  38.45000000,  -9.09000000 
+ 11568,                                         University of Lisbon,  13915,                  planetlab-2.di.fc.ul.pt,  194.117.20.215,  38.45000000,  -9.09000000 
+   117,                              University of California, Davis,   3408,               planetlab1.ece.ucdavis.edu,  169.237.79.210,  38.72000000, -121.43000000 
+   117,                              University of California, Davis,   3206,               planetlab2.ece.ucdavis.edu,  169.237.79.211,  38.72000000, -121.43000000 
+ 11569,                                            Eurecom Institute,  13897,                    planetlab1.eurecom.fr,   193.55.112.40,  43.62850000,   7.05162000 
+ 11569,                                            Eurecom Institute,  13901,                    planetlab2.eurecom.fr,   193.55.112.41,  43.62850000,   7.05162000 
+   171,                                           Canarie - Winnipeg,   3316, planet1.winnipeg.canet4.nodes.planet-lab.org,  205.189.32.135,  49.88320000, -97.16850000 
+   171,                                           Canarie - Winnipeg,   3317, planet2.winnipeg.canet4.nodes.planet-lab.org,  205.189.32.137,  49.88320000, -97.16850000 
+ 11571,                                 Technical University Ilmenau,  13870,            planet1.prakinf.tu-ilmenau.de,  141.24.212.157,  50.68030000,  10.93140000 
+ 11571,                                 Technical University Ilmenau,  13871,            planet2.prakinf.tu-ilmenau.de,  141.24.212.158,  50.68030000,  10.93140000 
+ 11571,                                 Technical University Ilmenau,  13872,            planet3.prakinf.tu-ilmenau.de,  141.24.212.159,  50.68030000,  10.93140000 
+    91,                                       Stony Brook University,  13274,                 pl2.cewit.stonybrook.edu,  130.245.191.60,  40.91000000, -73.13000000 
+    91,                                       Stony Brook University,  13273,                 pl1.cewit.stonybrook.edu,  130.245.191.59,  40.91000000, -73.13000000 
+ 11599,                             Technische Universitaet Muenchen,  13876,                 planetlab2.lkn.ei.tum.de,  138.246.99.250,  48.14930000,  11.56690000 
+ 11599,                             Technische Universitaet Muenchen,  13875,                 planetlab1.lkn.ei.tum.de,  138.246.99.249,  48.14930000,  11.56690000 
+ 11593,                Helsinki Institute for Information Technology,  13916,                       planetlab3.hiit.fi, 193.167.187.185,  60.10000000,  25.00000000 
+ 11593,                Helsinki Institute for Information Technology,  13936,                       planetlab4.hiit.fi, 193.167.187.186,  60.10000000,  25.00000000 
+ 11600,        Swiss Federal Institute of Technology Lausanne (EPFL),  13898,                      lsirextpc01.epfl.ch,   192.33.210.16,  46.53000000,   6.65000000 
+ 11600,        Swiss Federal Institute of Technology Lausanne (EPFL),  13899,                      lsirextpc02.epfl.ch,   192.33.210.17,  46.53000000,   6.65000000 
+ 11453,                University of Science and Technology of China,  13687,                   planetlab1.ustc.edu.cn,  202.141.161.43,  31.87000000, 117.27000000 
+ 11453,                University of Science and Technology of China,  13928,                   planetlab2.ustc.edu.cn,  202.141.161.44,  31.87000000, 117.27000000 
+ 11596,            University of Zurich, Communication Systems Group,  13881,                    planetlab1.csg.uzh.ch,  192.41.135.218,  47.23000000,   8.32000000 
+ 11596,            University of Zurich, Communication Systems Group,  13887,                    planetlab2.csg.uzh.ch,  192.41.135.219,  47.23000000,   8.32000000 
+    89,                                      Moscow State University,  13992,                         plab2.hll.msu.ru,     93.180.5.27,  55.75000000,  37.60000000 
+    89,                                      Moscow State University,  13989,                         plab1.hll.msu.ru,    178.22.88.44,  55.75000000,  37.60000000 
+    30,                                           University of Utah,  11075,                 planetlab7.flux.utah.edu,     155.98.35.8,  40.76860000, -111.84600000 
+    30,                                           University of Utah,  11074,                 planetlab6.flux.utah.edu,     155.98.35.7,  40.76860000, -111.84600000 
+    30,                                           University of Utah,  10713,                 planetlab5.flux.utah.edu,     155.98.35.6,  40.76860000, -111.84600000 
+    30,                                           University of Utah,  10712,                 planetlab4.flux.utah.edu,     155.98.35.5,  40.76860000, -111.84600000 
+ 11597,                                         University of Tromso,  13883,                     planetlab2.cs.uit.no,  129.242.19.197,  70.00000000,  18.70000000 
+ 11597,                                         University of Tromso,  13882,                     planetlab1.cs.uit.no,  129.242.19.196,  70.00000000,  18.70000000 
+    39,                           University of Technology at Sydney,     17,                 planetlab1.it.uts.edu.au,   138.25.15.194, -33.88740000, 151.19500000 
+    39,                           University of Technology at Sydney,     18,                 planetlab2.it.uts.edu.au,   138.25.15.195, -33.88740000, 151.19500000 
+ 11418,               Huazhong University of Science and Technology ,  13965,                   planetlab1.hust.edu.cn,   211.69.207.32,  30.51200000, 114.40800000 
+ 11418,               Huazhong University of Science and Technology ,  13966,                   planetlab2.hust.edu.cn,   211.69.207.34,  30.51200000, 114.40800000 
+ 11598,                             Technische Universitat Darmstadt,  13911, host3.planetlab.informatik.tu-darmstadt.de,  130.83.166.246,  49.53000000,   8.40000000 
+ 11598,                             Technische Universitat Darmstadt,  13910, host2.planetlab.informatik.tu-darmstadt.de,  130.83.166.245,  49.53000000,   8.40000000 
+ 11601,                                           Vrije Universiteit,  13868,                      planetlab1.cs.vu.nl,  130.37.193.141,  52.35000000,   4.90000000 
+ 11601,                                           Vrije Universiteit,  13869,                      planetlab2.cs.vu.nl,  130.37.193.143,  52.35000000,   4.90000000 
+ 11603,                  L3S Research Center, University of Hannover,  13968,              planet1.l3s.uni-hannover.de,     176.9.8.120,  52.40000000,   9.73000000 
+ 11603,                  L3S Research Center, University of Hannover,  13969,              planet2.l3s.uni-hannover.de,     176.9.8.121,  52.40000000,   9.73000000 
+    31,                      University of California at Los Angeles,  11403,                   planetlab1.cs.ucla.edu,  131.179.150.70,  34.07110000, -118.44200000 
+    31,                      University of California at Los Angeles,  11404,                   planetlab2.cs.ucla.edu,  131.179.150.72,  34.07110000, -118.44200000 
+ 10266,                             Universidad Tecnologica Nacional,  10980,                      planet-2.utn.edu.ar, planet-2.utn.edu.ar, -34.58000000, -58.48000000 
+   183,        Indian Institute of Information Technology, Bangalore,   8186,                   planetlab1.iiitb.ac.in, 164.164.104.162,  12.97000000,  77.58000000 
+   183,        Indian Institute of Information Technology, Bangalore,   8187,                   planetlab2.iiitb.ac.in, 164.164.104.163,  12.97000000,  77.58000000 
+ 11595,                            Karlsruhe Institute of Technology,  13904,         iraplab1.iralab.uni-karlsruhe.de,    193.196.39.9,  49.01500000,   8.40500000 
+ 11595,                            Karlsruhe Institute of Technology,  13920,         iraplab2.iralab.uni-karlsruhe.de,   193.196.39.10,  49.01500000,   8.40500000 
+ 11363,                           The Hebrew University of Jerusalem,  13061,                    planet3.cs.huji.ac.il,  132.65.240.102,  31.78570000,  35.20070000 
+ 11363,                           The Hebrew University of Jerusalem,  13059,                    planet1.cs.huji.ac.il,  132.65.240.100,  31.78570000,  35.20070000 
+ 11543,                                       Tel Aviv Yaffo College,  13994,                     planetlab1.mta.ac.il,   192.116.64.58,  32.04790000,  34.76100000 
+ 11543,                                       Tel Aviv Yaffo College,  13995,                     planetlab2.mta.ac.il,   192.116.64.59,  32.04790000,  34.76100000 
+ 10206,                            Seoul National University - MMLAB,  13504,                       pl2snu.koren21.net,  116.89.165.135,  37.26000000, 126.57000000 
+ 10206,                            Seoul National University - MMLAB,  10766,                       pl1snu.koren21.net,  116.89.165.133,  37.26000000, 126.57000000 
+    41,                                      University of Wisconsin,  11084,                 planetlab4.wail.wisc.edu, 198.133.224.149,  43.07570000, -89.38670000 
+    41,                                      University of Wisconsin,  11083,                 planetlab3.wail.wisc.edu, 198.133.224.147,  43.07570000, -89.38670000 
+ 11412,                               Technicolor Paris Research Lab,  13216,                     planetlab1.thlab.net,    141.11.0.165,  48.83190000,   2.28097000 
+ 11412,                               Technicolor Paris Research Lab,  13655,                     planetlab2.thlab.net,    141.11.0.162,  48.83190000,   2.28097000 
+   231,                                   Simula Research Laboratory,  13470,                     planetlab2.simula.no,    128.39.36.27,  59.93000000,  10.75000000 
+   231,                                   Simula Research Laboratory,  13612,                     planetlab1.simula.no,    128.39.36.26,  59.93000000,  10.75000000 
+ 11499,                  Poznan Supercomputing and Networking Center,  13963,                planetlab-2.man.poznan.pl, 150.254.212.148,  52.41180000,  16.91650000 
+ 11499,                  Poznan Supercomputing and Networking Center,  13978,                planetlab-1.man.poznan.pl, 150.254.212.147,  52.41180000,  16.91650000 
+ 10192,          Hong Kong Applied Science & Tech Research Institute,  10690,                 planetlab1.homelinux.org, planetlab1.homelinux.org,  22.18000000, 114.10000000 
+ 10146,                           University of Missouri Kansas City,  10529,                    kc-sce-plab1.umkc.edu,    204.56.0.137,  39.03860000, -94.57940000 
+ 10146,                           University of Missouri Kansas City,  10534,                    kc-sce-plab2.umkc.edu,    204.56.0.138,  39.03860000, -94.57940000 
+ 10257,                              UMass Boston - Computer Science,  11023,                    planetlab2.cs.umb.edu,  158.121.252.21,  42.31340000, -71.03830000 
+ 10257,                              UMass Boston - Computer Science,  11022,                    planetlab1.cs.umb.edu,  158.121.252.20,  42.31340000, -71.03830000 
+   213,                                           France Telecom R&D,   8251,           planetlab1.rdfrancetelecom.com,        8.5.1.45,  48.87000000,   2.33000000 
+   213,                                           France Telecom R&D,   8253,           planetlab2.rdfrancetelecom.com,        8.5.1.45,  48.87000000,   2.33000000 
+   170,                                            Canarie - Toronto,   3314, planet1.toronto.canet4.nodes.planet-lab.org,  205.189.32.141,  43.64500000, -79.38370000 
+   170,                                            Canarie - Toronto,   3315, planet2.toronto.canet4.nodes.planet-lab.org,  205.189.32.143,  43.64500000, -79.38370000 
+ 10288,                     Keldysh Institute of Applied Mathematics,  11482,                    planetlab2.keldysh.ru,    217.9.80.145,  55.06700000,  38.83300000 
+ 10288,                     Keldysh Institute of Applied Mathematics,  11477,                    planetlab1.keldysh.ru,    217.9.80.144,  55.06700000,  38.83300000 
+    25,                                          Stanford University,      4,                 planet1.scs.stanford.edu,    171.66.3.181,  37.42940000, -122.17200000 
+    25,                                          Stanford University,     45,                 planet2.scs.stanford.edu,    171.66.3.182,  37.42940000, -122.17200000 
+ 10110,                                        Ohio State University,  10395,           planetlab-1.cse.ohio-state.edu,  164.107.127.12,  39.98000000, -83.03000000 
+ 10110,                                        Ohio State University,  10396,           planetlab-2.cse.ohio-state.edu,  164.107.127.13,  39.98000000, -83.03000000 
+ 10226,                University of Ontario Institute of Technology,  10995,                          pl2.bit.uoit.ca,   205.211.183.4,  43.94490000, -78.89170000 
+ 10226,                University of Ontario Institute of Technology,  10994,                          pl1.bit.uoit.ca,   205.211.183.2,  43.94490000, -78.89170000 
+ 10047,                                        PlanetLab Colo - AMST,  10123,    planetlab-2.amst.nodes.planet-lab.org,  213.19.160.195,  52.35560000,   4.95270000 
+ 10047,                                        PlanetLab Colo - AMST,  10124,    planetlab-3.amst.nodes.planet-lab.org,  213.19.160.196,  52.35560000,   4.95270000 
+ 10047,                                        PlanetLab Colo - AMST,  10122,    planetlab-1.amst.nodes.planet-lab.org,  213.19.160.194,  52.35560000,   4.95270000 
+ 11513,                                               UAM-Cuajimalpa,  13774,                    pl-dccd-02.cua.uam.mx,   201.155.87.63,  19.39510000, -99.23320000 
+ 11513,                                               UAM-Cuajimalpa,  13772,                    pl-dccd-01.cua.uam.mx,  201.155.87.123,  19.39510000, -99.23320000 
+ 10156, Beijing Institute of Technology, Intelligent Information Network Lab,  10742,                planetlab2.iin-bit.com.cn, planetlab2.iin-bit.com.cn,  39.96630000, 116.31700000 
+ 10156, Beijing Institute of Technology, Intelligent Information Network Lab,  10629,                planetlab1.iin-bit.com.cn, planetlab1.iin-bit.com.cn,  39.96630000, 116.31700000 
+ 11451,                               Telefonica Research, Barcelona,  13567,                    plab1.tidprojects.com,     88.2.234.60,  41.41240000,   2.22102000 
+ 11451,                               Telefonica Research, Barcelona,  13568,                    plab2.tidprojects.com,   88.26.241.118,  41.41240000,   2.22102000 
+ 11619,                                      University of Bern, IAM,  13972,                planetlab02.cnds.unibe.ch,   130.92.70.252,  46.57000000,   7.26000000 
+ 11619,                                      University of Bern, IAM,  13971,                planetlab03.cnds.unibe.ch,   130.92.70.253,  46.57000000,   7.26000000 
+ 11619,                                      University of Bern, IAM,  13973,                planetlab04.cnds.unibe.ch,   130.92.70.254,  46.57000000,   7.26000000 
+ 10089,                                  The University of Hong Kong,  10279,                    planetlab2.eee.hku.hk,  202.189.126.86,  22.17000000, 114.09000000 
+ 10089,                                  The University of Hong Kong,  10276,                    planetlab1.eee.hku.hk,  202.189.126.85,  22.17000000, 114.09000000 
+ 10117,                               University of Texas at El Paso,  10419,                      planetlab2.utep.edu,  129.108.202.11,  31.75000000, -106.49000000 
+ 10117,                               University of Texas at El Paso,  10418,                      planetlab1.utep.edu,  129.108.202.10,  31.75000000, -106.49000000 
+   221,                       Indian Institute of Technology Roorkee,   8308,                 planetlab1.iitr.ernet.in,   202.141.62.34,  29.85000000,  77.90000000 
+   221,                       Indian Institute of Technology Roorkee,  10100,                 planetlab2.iitr.ernet.in,   202.141.62.35,  29.85000000,  77.90000000 
+ 10137,                                        Vanderbilt University,  10482,          planetlab-1.vuse.vanderbilt.edu,   129.59.88.179,  36.14500000, -86.80410000 
+ 10137,                                        Vanderbilt University,  10483,          planetlab-2.vuse.vanderbilt.edu,   129.59.88.180,  36.14500000, -86.80410000 
+ 11519,                                       Sun Yat-Sen University,  13757,                  planetlab-2.sysu.edu.cn,  202.116.81.195,  23.09930000, 113.29900000 
+ 11519,                                       Sun Yat-Sen University,  13756,                  planetlab-1.sysu.edu.cn,  202.116.81.194,  23.09930000, 113.29900000 
+ 11538,                        University of Massachusetts Dartmouth,  13923,                    planetlab1.umassd.edu,    134.88.5.251,  41.62860000, -71.00610000 
+ 11538,                        University of Massachusetts Dartmouth,  13924,                    planetlab2.umassd.edu,    134.88.5.253,  41.62860000, -71.00610000 
+   211,                       Telecommunications Research Laboratory,   8248,                 planetlab1.win.trlabs.ca, 198.163.152.229,  48.53000000,  97.09000000 
+   211,                       Telecommunications Research Laboratory,   8249,                 planetlab2.win.trlabs.ca, 198.163.152.230,  48.53000000,  97.09000000 
+ 11471,                                    Pusan National University,  13509,                         mnc1.pusan.ac.kr,  164.125.34.160,  35.23460000, 129.08300000 
+ 11471,                                    Pusan National University,  13517,                         mnc2.pusan.ac.kr,  164.125.34.161,  35.23460000, 129.08300000 
+     6,                        University of California at San Diego,  10544,                      planetlab1.ucsd.edu,  132.239.17.224,  32.87700000, -117.23700000 
+     6,                        University of California at San Diego,  10546,                      planetlab3.ucsd.edu,  132.239.17.226,  32.87700000, -117.23700000 
+     6,                        University of California at San Diego,  10545,                      planetlab2.ucsd.edu,  132.239.17.225,  32.87700000, -117.23700000 
+ 10268,                     PLA University of Science and Technology,  13163,                    plnodeb.plaust.edu.cn,   58.193.152.68,  32.06000000, 118.79000000 
+ 10268,                     PLA University of Science and Technology,  13411,                    plnodea.plaust.edu.cn,   58.193.152.66,  32.06000000, 118.79000000 
+   111,                                         University of Sussex,  13744,                  gemini03.inf.susx.ac.uk,   139.184.54.61,  50.83330000,   0.13333300 
+   111,                                         University of Sussex,  13732,                  gemini02.inf.susx.ac.uk,   139.184.54.60,  50.83330000,   0.13333300 
+ 10042, Oregon State University School of Electrical Engineering and Computer Science,  10110,                  planetlab2.een.orst.edu,    128.193.33.8,  44.34000000, -123.16000000 
+ 10042, Oregon State University School of Electrical Engineering and Computer Science,  10111,                  planetlab1.een.orst.edu,    128.193.33.7,  44.34000000, -123.16000000 
+ 11444,                                              Nile University,  13383,                  planetlab2.nileu.edu.eg, 196.219.200.165,  30.07220000,  31.01970000 
+ 11444,                                              Nile University,  13387,                  planetlab1.nileu.edu.eg, 196.219.200.163,  30.07220000,  31.01970000 
+ 11432,                               Huawei Technologies Co., Ltd. ,  13317,                 pn1-planetlab.huawei.com,    58.60.106.66,  22.65270000, 114.05400000 
+ 11432,                               Huawei Technologies Co., Ltd. ,  13318,                 pn2-planetlab.huawei.com,    58.60.106.70,  22.65270000, 114.05400000 
+   166,                                             Canarie - Ottawa,   3308, planet1.ottawa.canet4.nodes.planet-lab.org,  205.189.33.178,  45.41930000, -75.70190000 
+   166,                                             Canarie - Ottawa,   3309, planet2.ottawa.canet4.nodes.planet-lab.org,  205.189.33.179,  45.41930000, -75.70190000 
+ 10045,                                       University of Delaware,  10255,               planetlab1.pc.cis.udel.edu,     128.4.36.11,  39.41000000, -75.45000000 
+ 10045,                                       University of Delaware,  10256,               planetlab2.pc.cis.udel.edu,     128.4.36.12,  39.41000000, -75.45000000 
+   205,                                      University of Minnesota,   8255,                   planetlab2.dtc.umn.edu,   146.57.249.99,  44.98000000, -93.24000000 
+   205,                                      University of Minnesota,   8254,                   planetlab1.dtc.umn.edu,   146.57.249.98,  44.98000000, -93.24000000 
+   232,                                 Chungnam National University,  13223,                     datacomngn.cnu.ac.kr, datacomngn.cnu.ac.kr,  37.00000000, 127.50000000 
+   232,                                 Chungnam National University,  10286,                     planetlab1.cnu.ac.kr,  168.188.48.112,  37.00000000, 127.50000000 
+   232,                                 Chungnam National University,  10133,                           opal.cnu.ac.kr,  168.188.46.148,  37.00000000, 127.50000000 
+   168,                                            Canarie - Halifax,   3310, planet1.halifax.canet4.nodes.planet-lab.org,  205.189.32.153,  44.63690000, -63.58860000 
+   168,                                            Canarie - Halifax,   3311, planet2.halifax.canet4.nodes.planet-lab.org,  205.189.32.155,  44.63690000, -63.58860000 
+ 10055,                         Indian Institute of Technology Delhi,  10141,                       vayu.iitd.ernet.in,   124.124.247.4,  28.40000000,  77.13000000 
+ 10055,                         Indian Institute of Technology Delhi,  10145,                       agni.iitd.ernet.in,   124.124.247.3,  28.40000000,  77.13000000 
+   108,                           North Carolina AT State University,  10473,                       csplanet2.ncat.edu,   152.8.109.170,  36.07000000, -79.77000000 
+   108,                           North Carolina AT State University,  10271,                       csplanet1.ncat.edu,   152.8.108.158,  36.07000000, -79.77000000 
+ 11610,                                           University of Oslo,  13889,                    planetlab1.ifi.uio.no, 193.157.115.250,  59.93000000,  10.75000000 
+ 11610,                                           University of Oslo,  13890,                    planetlab2.ifi.uio.no, 193.157.115.251,  59.93000000,  10.75000000 
+ 11526,                          University of Alabama at Birmingham,  13755,                          pl1.cis.uab.edu,     138.26.66.4,  33.50060000, -86.80840000 
+ 11526,                          University of Alabama at Birmingham,  13761,                          pl2.cis.uab.edu,     138.26.66.5,  33.50060000, -86.80840000 
+   119,                                          University of Tokyo,  10262,             planetlab1.iii.u-tokyo.ac.jp,   133.11.240.56,  35.75000000, 139.50000000 
+   119,                                          University of Tokyo,  10263,             planetlab2.iii.u-tokyo.ac.jp,   133.11.240.57,  35.75000000, 139.50000000 
+ 10116,                        University of Puerto Rico at Mayaguez,  10429,                planetlab-02.ece.uprm.edu, 136.145.115.196,  18.20000000, -67.14000000 
+ 10116,                        University of Puerto Rico at Mayaguez,  10428,                planetlab-01.ece.uprm.edu, 136.145.115.194,  18.20000000, -67.14000000 
+   204,                                       Polytechnic University,   8284,                      planetlab2.poly.edu,   128.238.88.65,  40.69000000, -73.99000000 
+   204,                                       Polytechnic University,   8227,                      planetlab1.poly.edu,   128.238.88.64,  40.69000000, -73.99000000 
+   121,                                             HP Labs, Bristol,   3232,                     pli1-br-2.hpl.hp.com,     192.6.10.50,  51.45000000,  -2.58000000 
+   121,                                             HP Labs, Bristol,   3238,                     pli2-br-1.hpl.hp.com,     192.6.10.46,  51.45000000,  -2.58000000 
+   121,                                             HP Labs, Bristol,   3233,                     pli1-br-3.hpl.hp.com,     192.6.10.51,  51.45000000,  -2.58000000 
+   121,                                             HP Labs, Bristol,   3234,                     pli1-br-1.hpl.hp.com,     192.6.10.49,  51.45000000,  -2.58000000 
+   121,                                             HP Labs, Bristol,   3237,                     pli2-br-2.hpl.hp.com,     192.6.10.47,  51.45000000,  -2.58000000 
+   121,                                             HP Labs, Bristol,   3413,                     pli1-tlnx.hpl.hp.com,     192.6.10.63,  51.45000000,  -2.58000000 
+   169,                                           Canarie - Montreal,   3312, planet1.montreal.canet4.nodes.planet-lab.org,  205.189.32.147,  45.50250000, -73.57580000 
+   169,                                           Canarie - Montreal,   3313, planet2.montreal.canet4.nodes.planet-lab.org,  205.189.32.149,  45.50250000, -73.57580000 
+ 10285,                             National University of Kaohsiung,  11004,               planetlab1.csie.nuk.edu.tw, 140.127.208.238,  22.73280000, 120.28600000 
+ 10285,                             National University of Kaohsiung,  11005,               planetlab2.csie.nuk.edu.tw, 140.127.208.239,  22.73280000, 120.28600000 
+ 11548,                                             Aston University,  13907,                   planetlab1.aston.ac.uk, 134.151.255.180,  52.48660000,  -1.89098000 
+ 11548,                                             Aston University,  13908,                   planetlab2.aston.ac.uk, 134.151.255.181,  52.48660000,  -1.89098000 
+   220,                               University of Melbourne - CSSE,   8262,                     plnode02.cs.mu.oz.au, 220.245.140.197, -37.80000000, 144.90000000 
+   220,                               University of Melbourne - CSSE,   8261,                     plnode01.cs.mu.oz.au, 220.245.140.196, -37.80000000, 144.90000000 
+ 10216,                          PlanetLab Colo - CLARA Buenos Aires,  10759,  planetlab1-buenosaires.lan.redclara.net,   200.0.206.168,   1.00000000,   1.00000000 
+ 10216,                          PlanetLab Colo - CLARA Buenos Aires,  10760,  planetlab2-buenosaires.lan.redclara.net,   200.0.206.169,   1.00000000,   1.00000000 
+ 10101,                            University of Nebraska at Kearney,  10342,                      planetlab-2.unk.edu, planetlab-2.unk.edu,  40.70000000, -99.10000000 
+ 10101,                            University of Nebraska at Kearney,  10341,                      planetlab-1.unk.edu, planetlab-1.unk.edu,  40.70000000, -99.10000000 
+ 10214,                              PlanetLab Colo - CLARA Santiago,  10755,     planetlab1-santiago.lan.redclara.net,   200.0.206.202, -33.45000000, -70.55000000 
+ 10214,                              PlanetLab Colo - CLARA Santiago,  10756,     planetlab2-santiago.lan.redclara.net,   200.0.206.203, -33.45000000, -70.55000000 
+ 11615,                                        University of Rostock,  13987,                       pl1.uni-rostock.de,  139.30.240.191,  54.13000000,  12.14500000 
+ 11615,                                        University of Rostock,  13988,                       pl2.uni-rostock.de,  139.30.240.192,  54.13000000,  12.14500000 
+ 11353,                                                          PC2,  13202,           plane-lab-pb1.uni-paderborn.de,   192.26.179.68,  51.73210000,   8.73400000 
+ 11353,                                                          PC2,  13203,           plane-lab-pb2.uni-paderborn.de,   192.26.179.69,  51.73210000,   8.73400000 
+   109,                                          Texas AM University,    224,                      planetlab1.tamu.edu,     165.91.55.8,  30.61000000, -96.34000000 
+   109,                                          Texas AM University,  13851,                      planetlab4.tamu.edu,    165.91.55.11,  30.61000000, -96.34000000 
+   109,                                          Texas AM University,    225,                      planetlab2.tamu.edu,     165.91.55.9,  30.61000000, -96.34000000 
+   109,                                          Texas AM University,  13850,                      planetlab3.tamu.edu,    165.91.55.10,  30.61000000, -96.34000000 
+    45,                                       Wayne State University,  10189,                  planetlab1.cs.wayne.edu,   141.217.48.50,  42.35730000, -83.06770000 
+    45,                                       Wayne State University,  10190,                  planetlab2.cs.wayne.edu,   141.217.48.51,  42.35730000, -83.06770000 
+ 10099,                         University of Toronto at Mississauga,  10337,             planetlab01.erin.utoronto.ca,    142.150.3.77,  43.35000000, -79.37000000 
+ 10099,                         University of Toronto at Mississauga,  10338,             planetlab02.erin.utoronto.ca,    142.150.3.78,  43.35000000, -79.37000000 
+ 10213,                 DoCoMo Communications Laboratories USA, Inc.,  10767,       planetlabnode-1.docomolabs-usa.com,   216.98.102.29,  37.06250000, -97.67710000 
+ 10213,                 DoCoMo Communications Laboratories USA, Inc.,  10768,       planetlabnode-2.docomolabs-usa.com,   216.98.102.30,  37.06250000, -97.67710000 
+ 10130,                        Packet Clearing House - San Francisco,  13432,           sanfrancico2.planetlab.pch.net, sanfrancico2.planetlab.pch.net,  37.46000000, -122.26000000 
+ 10130,                        Packet Clearing House - San Francisco,  10463,           sanfrancisco.planetlab.pch.net,   64.151.112.20,  37.46000000, -122.26000000 
+ 10115,                                                  ERNET India,  10543,                      plab1.psgtech.ac.in,   59.163.146.20,  28.60000000,  77.09000000 
+ 10115,                                                  ERNET India,  10561,                          pl4.coep.org.in, pl4.coep.org.in,  28.60000000,  77.09000000 
+ 10115,                                                  ERNET India,  10560,                          pl3.coep.org.in, pl3.coep.org.in,  28.60000000,  77.09000000 
+ 10115,                                                  ERNET India,  10548,                              pl1.dce.edu, 173.192.143.154,  28.60000000,  77.09000000 
+ 10115,                                                  ERNET India,  10594,                      plab2.psgtech.ac.in,   59.163.146.21,  28.60000000,  77.09000000 
+ 10115,                                                  ERNET India,  10727,                             pl2.ernet.in,    202.41.97.84,  28.60000000,  77.09000000 
+ 10291,                                               Koc University,  11000,                        planet2.ku.edu.tr,   88.255.65.220,  41.20720000,  29.07560000 
+ 10291,                                               Koc University,  10999,                        planet1.ku.edu.tr,   88.255.65.219,  41.20720000,  29.07560000 
+ 11345,                             Universita di Napoli Federico II,  13107,                 planetlab02.dis.unina.it, 143.225.229.238,  40.82830000,  14.19060000 
+ 11345,                             Universita di Napoli Federico II,  13077,                 planetlab01.dis.unina.it, 143.225.229.236,  40.82830000,  14.19060000 
+ 11416,                                   Cleveland State University,  13405,                   planetlab1.csuohio.edu,   137.148.16.10,  41.50330000, -81.67560000 
+ 11416,                                   Cleveland State University,  13400,                   planetlab2.csuohio.edu,   137.148.16.11,  41.50330000, -81.67560000 
+ 11424,                                Tokyo Institute of Technology,  13263,            node4.planet-lab.titech.ac.jp, node4.planet-lab.titech.ac.jp,  35.60560000, 139.68500000 
+ 11424,                                Tokyo Institute of Technology,  13260,            node1.planet-lab.titech.ac.jp, node1.planet-lab.titech.ac.jp,  35.60560000, 139.68500000 
+ 11424,                                Tokyo Institute of Technology,  13262,            node3.planet-lab.titech.ac.jp, node3.planet-lab.titech.ac.jp,  35.60560000, 139.68500000 
+   230,                                      RNP - Rio Grande do Sul,   8321,                 planetlab2.pop-rs.rnp.br,     200.132.1.6, -30.05330000, -51.13000000 
+   230,                                      RNP - Rio Grande do Sul,   8320,                 planetlab1.pop-rs.rnp.br,     200.132.1.4, -30.05330000, -51.13000000 
+ 10108,                                                        Orbit,  10378,                       orbpl1.rutgers.edu,   128.6.192.158,  40.48000000, -74.45000000 
+ 10108,                                                        Orbit,  10379,                       orbpl2.rutgers.edu,   128.6.192.156,  40.48000000, -74.45000000 
+   114,                                            DePaul University,  10093,          planetlab1.mnlab.cti.depaul.edu, 140.192.249.203,  41.88000000, -87.63000000 
+   114,                                            DePaul University,   8185,          planetlab2.mnlab.cti.depaul.edu, 140.192.249.204,  41.88000000, -87.63000000 
+    18,                       University of Southern California, ISI,     33,                    planetlab1.postel.org,    206.117.37.4,  33.98150000, -118.46000000 
+    18,                       University of Southern California, ISI,  11105,                    planetlab4.postel.org,    206.117.37.7,  33.98150000, -118.46000000 
+    18,                       University of Southern California, ISI,     86,                    planetlab2.postel.org,    206.117.37.5,  33.98150000, -118.46000000 
+    18,                       University of Southern California, ISI,  11104,                    planetlab3.postel.org,    206.117.37.6,  33.98150000, -118.46000000 
+    87,                                     University of Notre Dame,    184,                    planetlab2.cse.nd.edu,    129.74.74.16,  41.70000000, -86.23860000 
+    87,                                     University of Notre Dame,  11070,                    planetlab3.cse.nd.edu,    129.74.74.20,  41.70000000, -86.23860000 
+    87,                                     University of Notre Dame,    185,                    planetlab1.cse.nd.edu,    129.74.74.15,  41.70000000, -86.23860000 
+    87,                                     University of Notre Dame,  11071,                    planetlab4.cse.nd.edu,    129.74.74.19,  41.70000000, -86.23860000 
+ 10201,                     Lahore University of Management Pakistan,  10824,                  planetlab02.lums.edu.pk,  203.135.63.185,  31.47010000,  74.40990000 
+ 10201,                     Lahore University of Management Pakistan,  10823,                  planetlab01.lums.edu.pk,  203.135.63.184,  31.47010000,  74.40990000 
+ 10087,                                      KREONET at KISTI-DAEJON,  10281,                   planetlab2.kreonet.net,   203.230.7.202,  36.20000000, 127.26000000 
+ 10087,                                      KREONET at KISTI-DAEJON,  10282,                   planetlab1.kreonet.net,   203.230.7.201,  36.20000000, 127.26000000 
+    36,                               University of British Columbia,     14,                     planetlab1.cs.ubc.ca,     142.103.2.1,  49.26370000, -123.23700000 
+    36,                               University of British Columbia,     15,                     planetlab2.cs.ubc.ca,     142.103.2.2,  49.26370000, -123.23700000 
+ 10248, University of Virginia - Systems and Information Engineering,  10883,             planetlab01.sys.virginia.edu,   128.143.6.134,  38.03200000, -78.51080000 
+ 10248, University of Virginia - Systems and Information Engineering,  10884,             planetlab02.sys.virginia.edu,   128.143.6.130,  38.03200000, -78.51080000 
+ 10049,    Fraunhofer Institut fur Techno- und Wirtschaftsmathematik,  13542,            planetlab4.itwm.fraunhofer.de, planetlab4.itwm.fraunhofer.de,  49.26000000,   7.46000000 
+ 10049,    Fraunhofer Institut fur Techno- und Wirtschaftsmathematik,  13543,            planetlab5.itwm.fraunhofer.de, planetlab5.itwm.fraunhofer.de,  49.26000000,   7.46000000 
+ 10049,    Fraunhofer Institut fur Techno- und Wirtschaftsmathematik,  13541,            planetlab3.itwm.fraunhofer.de, planetlab3.itwm.fraunhofer.de,  49.26000000,   7.46000000 
+ 10049,    Fraunhofer Institut fur Techno- und Wirtschaftsmathematik,  10242,                   planetlab2.itwm.fhg.de, planetlab2.itwm.fhg.de,  49.26000000,   7.46000000 
+ 10049,    Fraunhofer Institut fur Techno- und Wirtschaftsmathematik,  10518,                   planetlab1.itwm.fhg.de, planetlab1.itwm.fhg.de,  49.26000000,   7.46000000 
+    43,                                        University of Chicago,     27,               planetlab1.cs.uchicago.edu, 128.135.164.191,  41.78940000, -87.60110000 
+    43,                                        University of Chicago,     28,               planetlab2.cs.uchicago.edu, 128.135.164.192,  41.78940000, -87.60110000 
+    43,                                        University of Chicago,     29,               planetlab3.cs.uchicago.edu, 128.135.164.193,  41.78940000, -87.60110000 
+    43,                                        University of Chicago,  13537,               planetlab4.cs.uchicago.edu, 128.135.164.194,  41.78940000, -87.60110000 
+ 10204,                                           Ryerson University,  10704,               planetlab-2.rml.ryerson.ca,   141.117.68.62,  43.65750000, -79.37720000 
+ 10204,                                           Ryerson University,  10703,               planetlab-1.rml.ryerson.ca,   141.117.68.60,  43.65750000, -79.37720000 
+ 10063,                   Moscow Institute of Physics and Technology,  10169,                   planet-lab.iki.rssi.ru,  193.232.27.246,  55.65000000,  37.50000000 
+    80,                                    Michigan State University,  10454,                   planetlab2.cse.msu.edu,      35.9.27.27,  42.74000000, -84.48000000 
+    80,                                    Michigan State University,  10432,                   planetlab1.cse.msu.edu,      35.9.27.26,  42.74000000, -84.48000000 
+ 10316,                                            Monitor Test Site,  13993,               gpctest-1.cs.princeton.edu,  128.112.139.65,   1.00000000,   1.00000000 
+   203,                                     University of Cincinnati,   8229,                        planetlab2.uc.edu, 129.137.253.252,  39.11000000, -84.50000000 
+   203,                                     University of Cincinnati,   8228,                        planetlab1.uc.edu, 129.137.253.253,  39.11000000, -84.50000000 
+    32,                                         Lancaster University,     62,           planetlab1.cs-ipv6.lancs.ac.uk, planetlab1.cs-ipv6.lancs.ac.uk,  54.01030000,  -2.78286000 
+    32,                                         Lancaster University,     63,           planetlab2.cs-ipv6.lancs.ac.uk, planetlab2.cs-ipv6.lancs.ac.uk,  54.01030000,  -2.78286000 
+   146,                                  University of New Brunswick,   3331,                     planetlab2.cs.unb.ca, planetlab2.cs.unb.ca,  45.96670000, -66.65000000 
+   146,                                  University of New Brunswick,   3332,                     planetlab1.cs.unb.ca, planetlab1.cs.unb.ca,  45.96670000, -66.65000000 
+ 10056,                                American University of Beirut,  10147,                    planetlab2.aub.edu.lb, planetlab2.aub.edu.lb,  33.53000000,  35.30000000 
+ 10056,                                American University of Beirut,  10146,                    planetlab1.aub.edu.lb, planetlab1.aub.edu.lb,  33.53000000,  35.30000000 
