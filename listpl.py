@@ -64,6 +64,8 @@ _OUT_FILE_ = ("pl-nodes-%s.txt" % time.strftime(_TIME_FMT_, time.localtime()))
 
 # output record format - 
 # <site id>, <site name>, <node_id>, <hostname>, <IP>, <latitude>, <longitude>
+_OUT_DATA_HDR_ = ('# <site id>, <site name>, ' + 
+                  '<node_id>, <hostname>, <IP>, <latitude>, <longitude> \n')
 _OUT_DATA_FMT_ = '%6d, %60s, %6d, %40s, %15s, %12.8f, %12.8f \n'
 
 
@@ -81,20 +83,22 @@ def __getPlanetLabNodeList(out):
         
         # for each site, retrieve the node IPs
         for site in sites:
+            site_id = site['site_id']
+            site_name = site['name']
+            site_lon = site['longitude']
+            site_lat = site['latitude']
             node_ids = site['node_ids']
             
             if not len(node_ids) > 0:
                 # No nodes in the site!
                 # (perhaps disabled or currently down or newly created?)
                 continue
+            elif (site_lon is None) or (site_lat is None):
+                # skip sites with no location information
+                continue
             
             # retrieve details on the nodes at the site
             nodes = plc.GetNodes(_AUTH_CREDS_, node_ids, _REQ_NODE_DATA_)
-            
-            site_id = site['site_id']
-            site_name = site['name']
-            site_lon = site['longitude']
-            site_lat = site['latitude']
             
             for node in nodes:
                 node_id = node['node_id']
@@ -106,6 +110,9 @@ def __getPlanetLabNodeList(out):
                 except socket.gaierror as e:
                     node_ip = node_host
                 
+                print (site_id, site_name, 
+                       node_id, node_host, node_ip, 
+                       site_lat, site_lon)
                 out.write(_OUT_DATA_FMT_ % (site_id, site_name, 
                                             node_id, node_host, node_ip, 
                                             site_lat, site_lon))
@@ -148,4 +155,5 @@ if __name__ == '__main__':
     
     out_file = os.path.sep.join((opts.out_path, _OUT_FILE_))
     with codecs.open(out_file, 'w', 'utf-8') as out:
+        out.write(_OUT_DATA_HDR_)
         __getPlanetLabNodeList(out)
