@@ -42,6 +42,7 @@ import codecs
 from optparse import OptionParser
 import os
 import socket
+import time
 import xmlrpclib as rpc
 
 
@@ -58,7 +59,8 @@ _REQ_NODE_DATA_ = ('node_id', 'hostname')
 
 
 # output file name where PlanetLab nodes and associated data is dumped
-_OUT_FILE_ = 'pl-nodes.txt'
+_TIME_FMT_ = '%m%d%Y-%H%M'
+_OUT_FILE_ = ("pl-nodes-%s.txt" % time.strftime(_TIME_FMT_, time.localtime()))
 
 # output record format - 
 # <site id>, <site name>, <node_id>, <hostname>, <IP>, <latitude>, <longitude>
