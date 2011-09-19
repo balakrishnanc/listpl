@@ -66,7 +66,7 @@ _OUT_FILE_ = ("pl-nodes-%s.txt" % time.strftime(_TIME_FMT_, time.localtime()))
 # <site id>, <site name>, <node_id>, <hostname>, <IP>, <latitude>, <longitude>
 _OUT_DATA_HDR_ = ('# <site id>, <site name>, ' + 
                   '<node_id>, <hostname>, <IP>, <latitude>, <longitude> \n')
-_OUT_DATA_FMT_ = '%6d, %60s, %6d, %40s, %15s, %12.8f, %12.8f \n'
+_OUT_DATA_FMT_ = '%6d| %60s| %6d| %40s| %15s| %12.8f| %12.8f \n'
 
 
 def __getPlanetLabNodeList(out):
