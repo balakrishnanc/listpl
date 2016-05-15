@@ -1,0 +1,17 @@
+   211|                       Telecommunications Research Laboratory|   8248|                 planetlab1.win.trlabs.ca| 198.163.152.229|  48.53000000|  97.09000000 
+   211|                       Telecommunications Research Laboratory|   8249|                 planetlab2.win.trlabs.ca| 198.163.152.230|  48.53000000|  97.09000000 
+ 10213|                 DoCoMo Communications Laboratories USA, Inc.|  10767|       planetlabnode-1.docomolabs-usa.com|   216.98.102.29|  37.06250000| -97.67710000 
+ 10213|                 DoCoMo Communications Laboratories USA, Inc.|  10768|       planetlabnode-2.docomolabs-usa.com|   216.98.102.30|  37.06250000| -97.67710000 
+ 10159|                                                 WIDE Project|  10596|           planetlab1.otemachi.wide.ad.jp|   203.178.133.3|  36.10240000| 142.49300000 
+ 10159|                                                 WIDE Project|  10595|           planetlab0.otemachi.wide.ad.jp|   203.178.133.2|  36.10240000| 142.49300000 
+ 10159|                                                 WIDE Project|  10598|             planetlab1.dojima.wide.ad.jp|  203.178.133.11|  36.10240000| 142.49300000 
+ 10159|                                                 WIDE Project|  10597|             planetlab0.dojima.wide.ad.jp|  203.178.133.10|  36.10240000| 142.49300000 
+ 10007|                        Indian Institute Of Technology Bombay|  10029|                    planetlab2.iitb.ac.in| 203.200.234.182|  18.58000000|  72.50000000 
+ 10007|                        Indian Institute Of Technology Bombay|  10087|                    planetlab1.iitb.ac.in| 203.200.234.181|  18.58000000|  72.50000000 
+ 10215|                             PlanetLab Colo - CLARA Sao Paulo|  10757|     planetlab1-saopaulo.lan.redclara.net|   200.0.206.136|   1.00000000|   1.00000000 
+ 10215|                             PlanetLab Colo - CLARA Sao Paulo|  10758|     planetlab2-saopaulo.lan.redclara.net|   200.0.206.137|   1.00000000|   1.00000000 
+ 10217|                               PlanetLab Colo - CLARA Tijuana|  10763|      planetlab1-tijuana.lan.redclara.net|    200.0.206.12|   1.00000000|   1.00000000 
+ 10217|                               PlanetLab Colo - CLARA Tijuana|  10764|      planetlab2-tijuana.lan.redclara.net|    200.0.206.13|   1.00000000|   1.00000000 
+ 10216|                          PlanetLab Colo - CLARA Buenos Aires|  10759|  planetlab1-buenosaires.lan.redclara.net|   200.0.206.168|   1.00000000|   1.00000000 
+ 10216|                          PlanetLab Colo - CLARA Buenos Aires|  10760|  planetlab2-buenosaires.lan.redclara.net|   200.0.206.169|   1.00000000|   1.00000000 
+ 10316|                                            Monitor Test Site|  13993|               gpctest-1.cs.princeton.edu|  128.112.139.65|   1.00000000|   1.00000000 

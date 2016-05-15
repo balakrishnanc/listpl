@@ -1,0 +1,6 @@
+# <site id>, <site name>, <node_id>, <hostname>, <IP>, <latitude>, <longitude> 
+ 11641|                                     Universite de Strasbourg|  14065|                  planetlab1.u-strasbg.fr|    130.79.48.55|  48.52370000|   7.73833000 
+ 11641|                                     Universite de Strasbourg|  14066|                  planetlab2.u-strasbg.fr|    130.79.48.57|  48.52370000|   7.73833000 
+ 10256|                            Michigan Technological University|  10944|                 mtuplanetlab1.cs.mtu.edu| 141.219.252.132|  47.11810000| -88.54630000 
+ 10256|                            Michigan Technological University|  13125|                 mtuplanetlab2.cs.mtu.edu| 141.219.252.133|  47.11810000| -88.54630000 
+ 10173| Department of Electrical Engineering, National Taiwan University|  10669|                       adam.ee.ntu.edu.tw|  140.112.42.158|  25.01090000| 121.32300000 
